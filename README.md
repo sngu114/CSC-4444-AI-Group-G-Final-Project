@@ -6,12 +6,12 @@ This is **Group G's** github repository for our project "Animal+Species Identifi
 
 <ins> Team Members </ins>
 
-**Steven Nguyen**
-**Andy Tran**
-**Nathan Soto**
-**Gray Barrow**
-**Kevin Ray**
-**Thomas Shimer**
+**Steven Nguyen**  
+**Andy Tran**  
+**Nathan Soto**  
+**Gray Barrow**  
+**Kevin Ray**  
+**Thomas Shimer**  
 
 
 ## <ins> **Abstract** </ins>
