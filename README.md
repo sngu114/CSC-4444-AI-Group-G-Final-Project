@@ -1,6 +1,6 @@
 # Group G Final Project - AI Animal and Species Identifier
 
-##<ins> CSC 4444 - Artificial Intelligence with Professor Dong Lao </ins>
+## <ins> CSC 4444 - Artificial Intelligence with Professor Dong Lao </ins>
 
 This is **Group G's** github repository for our project "Animal+Species Identifier AI Model"
 
