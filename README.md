@@ -1,6 +1,18 @@
-# <ins> CSC 4444 - Artificial Intelligence with Professor Dong Lao </ins>
+# Group G Final Project - AI Animal and Species Identifier
 
-This is Group G's github repository for our project "Animal+Species Identifier AI Model"
+##<ins> CSC 4444 - Artificial Intelligence with Professor Dong Lao </ins>
+
+This is **Group G's** github repository for our project "Animal+Species Identifier AI Model"
+
+<ins> Team Members </ins>
+
+**Steven Nguyen**
+**Andy Tran**
+**Nathan Soto**
+**Gray Barrow**
+**Kevin Ray**
+**Thomas Shimer**
+
 
 ## <ins> **Abstract** </ins>
 
