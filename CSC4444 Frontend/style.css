@@ -38,6 +38,19 @@ ol {
 
 /* ANY SPECIFIC STUFF FOR DOCUMENTATION.HTML */
 
+.github-btn:hover {
+    background-color:grey;
+}
+
+.github-btn:active {
+    background-color: black;
+}
+
+.github-btn {
+    font-size:15px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 
 
