@@ -1,50 +1,62 @@
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Documentation</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
+  <!-- Navigation Bar -->
   <ul id="nav_bar">
     <li><a href="frontend.html">Home</a></li>
     <li><a href="team_members.html">Team Members</a></li>
-    <li><a href="documentation.html">Documentation</a></li>
+    <li><a href="documentation.html" class="active">Documentation</a></li>
   </ul>
 
-  <h1> Documentation</h1>
-  <br>
+  <!-- Page Container -->
+  <div class="container">
 
-  <h2>Abstract</h2>
-  <p>Create/train a Residual Convolutional Neural Network AI model that can take an image from a user, scan it, and
-    accurately guess what animal it is as well as its specific species. The model will be trained on multiple animal
-    image datasets to improve accuracy. We will also develop a web frontend interface/website where users can input
-    images and the AI model will output its guess. If we have enough time, the website will also display an infographic
-    about the inner workings of the model. The collection and preprocessing of the high quality image datasets will take
-    up a large amount of time. Trying to maintain high prediction accuracy across multiple animals and species will be
-    difficult. Connecting the AI-model to the web-based interface will also be a challenge. Since we can’t train our AI
-    model on all the animals and their species due to time and processing power, we could narrow down the list to a
-    reasonable amount of animals/species such as cats, dogs, birds, and lizards. To maintain accuracy, we will tune our
-    model with selected datasets based on the previously mentioned animals instead of using generalized datasets.</p>
+    <header class="page-header">
+      <h1>Documentation</h1>
+      <p class="intro">Overview and details of our AI model, its purpose, and the implementation process.</p>
+    </header>
 
-  <br>
-  <h2>Links</h2>
-  <button class="github-btn" type="button"
-    onclick="location.href='https://github.com/sngu114/CSC-4444-AI-Group-G-Final-Project'">Github Repo</button>
-  <p> (placeholder) put some links to the datasets or any research related stuff here. And make it a button or something
-  </p>
+    <section class="doc-section">
+      <h2>Abstract</h2>
+      <p>
+        Our project aims to create and train a <strong>Residual Convolutional Neural Network (ResNet)</strong> that can
+        take an uploaded image, analyze it, and accurately identify both the animal and its specific species.
+      </p>
+      <p>
+        The model will be trained using multiple curated animal image datasets to improve classification accuracy.
+        Alongside this, we will build a <strong>web-based frontend interface</strong> where users can upload images and
+        instantly receive the model’s predictions. If time allows, we’ll include an interactive infographic explaining
+        how the model processes and classifies images.
+      </p>
+      <p>
+        Challenges include dataset collection and preprocessing, model tuning for high accuracy across multiple animal
+        classes, and seamless integration between the AI model and frontend. Due to time and resource limits, we will
+        focus on specific categories — cats, dogs, birds, and lizards — and fine-tune our model accordingly.
+      </p>
+    </section>
 
+    <section class="doc-section">
+      <h2>Links</h2>
+      <div class="button-wrap">
+        <button class="github-btn" type="button"
+          onclick="window.open('https://github.com/sngu114/CSC-4444-AI-Group-G-Final-Project', '_blank')">
+          View GitHub Repository
+        </button>
+      </div>
+      <p class="muted">More resources such as datasets and research materials will be linked here soon.</p>
+    </section>
 
-
+  </div>
 
   <script src="script.js"></script>
-
 </body>
-
-
-
 </html>
