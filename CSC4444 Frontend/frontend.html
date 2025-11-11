@@ -1,41 +1,40 @@
 <!DOCTYPE html>
-
 <html>
-
 <head>
-
-    <title>Ai Animal and Species Identifier</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-
+  <title>Ai Animal and Species Identifier</title>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="style.css" />
 </head>
-
-
 <body>
-    <ul id="nav_bar">
-        <li><a href="frontend.html">Home</a></li>
-        <li><a href="team_members.html">Team Members</a></li>
-        <li><a href="documentation.html">Documentation</a></li>
-    </ul>
-    
-    <br><br><br>
-    <input type="file" id="imageInput" accept="image/*">
-    <br><br>
+  <ul id="nav_bar">
+    <li><a href="frontend.html">Home</a></li>
+    <li><a href="team_members.html">Team Members</a></li>
+    <li><a href="documentation.html">Documentation</a></li>
+  </ul>
 
-    <img id="preview" src="#" alt="Your image will appear here" width="300"
-        style="display:none; border:1px solid #ccc;">
+  <main class="container">
+     <!-- <h2>Upload an image</h2> -->
 
+    <!-- Dropzone -->
+    <div id="dropzone" aria-label="Image dropzone" tabindex="0">
+      <p><strong>Drag & drop</strong> an image here</p>
+      <p>or</p>
+      <button id="selectBtn" type="button">Choose image</button>
+      <input type="file" id="imageInput" accept="image/*" hidden />
+    </div>
 
+    <!-- Preview -->
+    <div id="previewWrap">
+      <img id="preview" src="" alt="Selected image preview" width="300" style="display:none; border:1px solid #ccc;" />
+      <div id="filename" class="muted"></div>
+      <div id="errorMsg" class="error" role="alert" aria-live="polite"></div>
+    </div>
 
+    <!-- Submit -->
+    <button id="submitBtn" type="button" disabled>Submit</button>
+    <div id="statusMsg" class="muted" aria-live="polite"></div>
+  </main>
 
-    
-    <script src="script.js"></script>
-
+  <script src="script.js"></script>
 </body>
-
-
-
-
-
-
-
 </html>
