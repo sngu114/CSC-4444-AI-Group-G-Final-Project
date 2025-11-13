@@ -55,7 +55,7 @@ ol {
     font-family: system-ui, Arial, sans-serif;
 }
 
-/* Nav (your existing styles can stay) */
+/* Nav - existing styles can stay */
 #nav_bar {
     list-style: none;
     display: flex;
