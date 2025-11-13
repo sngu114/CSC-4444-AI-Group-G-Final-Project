@@ -3,8 +3,9 @@
 <head>
   <title>Ai Animal and Species Identifier</title>
   <meta charset="utf-8" />
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
   <ul id="nav_bar">
     <li><a href="frontend.html">Home</a></li>
@@ -13,7 +14,6 @@
   </ul>
 
   <main class="container">
-     <!-- <h2>Upload an image</h2> -->
 
     <!-- Dropzone -->
     <div id="dropzone" aria-label="Image dropzone" tabindex="0">
@@ -30,9 +30,12 @@
       <div id="errorMsg" class="error" role="alert" aria-live="polite"></div>
     </div>
 
+    <button id="resetBtn" type="button" style="display:none;">Submit Another Image</button>
+
     <!-- Submit -->
     <button id="submitBtn" type="button" disabled>Submit</button>
     <div id="statusMsg" class="muted" aria-live="polite"></div>
+
   </main>
 
   <script src="script.js"></script>

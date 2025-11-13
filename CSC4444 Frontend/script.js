@@ -2,18 +2,32 @@ const input = document.getElementById("imageInput");
 const dropzone = document.getElementById("dropzone");
 const selectBtn = document.getElementById("selectBtn");
 const submitBtn = document.getElementById("submitBtn");
-const preview2 = document.getElementById("preview");
+const preview = document.getElementById("preview");
 const filenameEl = document.getElementById("filename");
 const errorMsg = document.getElementById("errorMsg");
 const statusMsg = document.getElementById("statusMsg");
+const resetBtn = document.getElementById("resetBtn");
 
-// Keep the selected file in memory for submit
 let selectedFile = null;
 
-// --- Helpers ---
 function clearMessages() {
   errorMsg.textContent = "";
   statusMsg.textContent = "";
+}
+
+function showPreviewUI() {
+  dropzone.style.display = "none";
+  preview.style.display = "block";
+  resetBtn.style.display = "inline-block";
+}
+
+function showDropzoneUI() {
+  dropzone.style.display = "block";
+  preview.style.display = "none";
+  preview.src = "";
+  filenameEl.textContent = "";
+  resetBtn.style.display = "none";
+  submitBtn.disabled = true;
 }
 
 function setPreview(file) {
@@ -33,25 +47,23 @@ function setPreview(file) {
   const reader = new FileReader();
   reader.onload = (e) => {
     preview.src = e.target.result;
-    preview.style.display = "block";
     filenameEl.textContent = file.name + ` (${Math.round(file.size / 1024)} KB)`;
     selectedFile = file;
     submitBtn.disabled = false;
+    showPreviewUI();
   };
   reader.readAsDataURL(file);
 }
 
 function handleFiles(files) {
   if (!files || files.length === 0) return;
-  setPreview(files[0]); // show the first image
+  setPreview(files[0]);
 }
 
-// --- Input select (button triggers hidden input) ---
 selectBtn.addEventListener("click", () => input.click());
 input.addEventListener("change", (e) => handleFiles(e.target.files));
 
-// --- Drag & drop ---
-;["dragenter", "dragover"].forEach(evt =>
+["dragenter", "dragover"].forEach(evt =>
   dropzone.addEventListener(evt, (e) => {
     e.preventDefault();
     e.stopPropagation();
@@ -59,7 +71,7 @@ input.addEventListener("change", (e) => handleFiles(e.target.files));
   })
 );
 
-;["dragleave", "drop"].forEach(evt =>
+["dragleave", "drop"].forEach(evt =>
   dropzone.addEventListener(evt, (e) => {
     e.preventDefault();
     e.stopPropagation();
@@ -73,35 +85,23 @@ dropzone.addEventListener("drop", (e) => {
   if (dt && dt.files) handleFiles(dt.files);
 });
 
-
 dropzone.addEventListener("paste", (e) => {
   const items = e.clipboardData?.files;
   if (items && items.length) handleFiles(items);
 });
 
-// --- Submit (stub) ---
-// Replace '/upload' with your backend endpoint
-//currently just a demo
-submitBtn.addEventListener("click", async () => {
+submitBtn.addEventListener("click", () => {
   clearMessages();
   if (!selectedFile) {
     errorMsg.textContent = "Please choose an image first.";
     return;
   }
 
-  // Example: send to backend
-  // const formData = new FormData();
-  // formData.append("image", selectedFile);
-  // try {
-  //   statusMsg.textContent = "Uploading...";
-  //   const res = await fetch("/upload", { method: "POST", body: formData });
-  //   if (!res.ok) throw new Error(`Upload failed (${res.status})`);
-  //   const data = await res.json(); // e.g., { label: "tiger", confidence: 0.92 }
-  //   statusMsg.textContent = `Uploaded! Predicted: ${data.label} (${(data.confidence*100).toFixed(1)}%)`;
-  // } catch (err) {
-  //   errorMsg.textContent = err.message || "Upload failed.";
-  // }
+  statusMsg.textContent = "Submitted!";
+});
 
-  //simulate success
-  statusMsg.textContent = "Submitted! (Demo: this will be wired to our AI model)";
+resetBtn.addEventListener("click", () => {
+  selectedFile = null;
+  clearMessages();
+  showDropzoneUI();
 });
