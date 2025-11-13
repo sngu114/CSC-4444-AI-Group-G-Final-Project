@@ -97,7 +97,7 @@ submitBtn.addEventListener("click", () => {
     return;
   }
 
-  statusMsg.textContent = "Submitted!";
+  statusMsg.textContent = "Submitted! The AI Model will guess now!";
 });
 
 resetBtn.addEventListener("click", () => {
