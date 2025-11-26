@@ -1,0 +1,8542 @@
+[
+  [
+    "Lumbricus terrestris",
+    "terrestris",
+    "Lumbricus",
+    "Lumbricidae",
+    "Haplotaxida",
+    "Clitellata",
+    "Annelida",
+    "Animalia"
+  ],
+  [
+    "Sabella spallanzanii",
+    "spallanzanii",
+    "Sabella",
+    "Sabellidae",
+    "Sabellida",
+    "Polychaeta",
+    "Annelida",
+    "Animalia"
+  ],
+  [
+    "Serpula columbiana",
+    "columbiana",
+    "Serpula",
+    "Serpulidae",
+    "Sabellida",
+    "Polychaeta",
+    "Annelida",
+    "Animalia"
+  ],
+  [
+    "Spirobranchus cariniferus",
+    "cariniferus",
+    "Spirobranchus",
+    "Serpulidae",
+    "Sabellida",
+    "Polychaeta",
+    "Annelida",
+    "Animalia"
+  ],
+  [
+    "Eratigena duellica",
+    "duellica",
+    "Eratigena",
+    "Agelenidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Atypoides riversi",
+    "riversi",
+    "Atypoides",
+    "Antrodiaetidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Aculepeira ceropegia",
+    "ceropegia",
+    "Aculepeira",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Agalenatea redii",
+    "redii",
+    "Agalenatea",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Araneus bicentenarius",
+    "bicentenarius",
+    "Araneus",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Araneus diadematus",
+    "diadematus",
+    "Araneus",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Araneus marmoreus",
+    "marmoreus",
+    "Araneus",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Araneus quadratus",
+    "quadratus",
+    "Araneus",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Araneus trifolium",
+    "trifolium",
+    "Araneus",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Araniella displicata",
+    "displicata",
+    "Araniella",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Argiope appensa",
+    "appensa",
+    "Argiope",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Argiope argentata",
+    "argentata",
+    "Argiope",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Argiope aurantia",
+    "aurantia",
+    "Argiope",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Argiope australis",
+    "australis",
+    "Argiope",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Argiope bruennichi",
+    "bruennichi",
+    "Argiope",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Argiope keyserlingi",
+    "keyserlingi",
+    "Argiope",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Argiope lobata",
+    "lobata",
+    "Argiope",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Argiope trifasciata",
+    "trifasciata",
+    "Argiope",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Austracantha minax",
+    "minax",
+    "Austracantha",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Cyclosa conica",
+    "conica",
+    "Cyclosa",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Cyclosa turbinata",
+    "turbinata",
+    "Cyclosa",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Cyrtophora citricola",
+    "citricola",
+    "Cyrtophora",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Eriophora pustulosa",
+    "pustulosa",
+    "Eriophora",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Eriophora ravilla",
+    "ravilla",
+    "Eriophora",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Gasteracantha cancriformis",
+    "cancriformis",
+    "Gasteracantha",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Gasteracantha kuhli",
+    "kuhli",
+    "Gasteracantha",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Larinioides cornutus",
+    "cornutus",
+    "Larinioides",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Mangora acalypha",
+    "acalypha",
+    "Mangora",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Mangora placida",
+    "placida",
+    "Mangora",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Mecynogea lemniscata",
+    "lemniscata",
+    "Mecynogea",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Micrathena gracilis",
+    "gracilis",
+    "Micrathena",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Micrathena mitrata",
+    "mitrata",
+    "Micrathena",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Micrathena sagittata",
+    "sagittata",
+    "Micrathena",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Neoscona arabesca",
+    "arabesca",
+    "Neoscona",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Neoscona crucifera",
+    "crucifera",
+    "Neoscona",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Neoscona domiciliorum",
+    "domiciliorum",
+    "Neoscona",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Neoscona oaxacensis",
+    "oaxacensis",
+    "Neoscona",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Nephila pilipes",
+    "pilipes",
+    "Nephila",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Nuctenea umbratica",
+    "umbratica",
+    "Nuctenea",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Thelacantha brevispina",
+    "brevispina",
+    "Thelacantha",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Trichonephila clavata",
+    "clavata",
+    "Trichonephila",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Trichonephila clavipes",
+    "clavipes",
+    "Trichonephila",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Trichonephila edulis",
+    "edulis",
+    "Trichonephila",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Trichonephila fenestrata",
+    "fenestrata",
+    "Trichonephila",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Trichonephila plumipes",
+    "plumipes",
+    "Trichonephila",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Verrucosa arenata",
+    "arenata",
+    "Verrucosa",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Zygiella x-notata",
+    "x-notata",
+    "Zygiella",
+    "Araneidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Cheiracanthium mildei",
+    "mildei",
+    "Cheiracanthium",
+    "Cheiracanthiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Nyssus coloripes",
+    "coloripes",
+    "Nyssus",
+    "Corinnidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Badumna longinqua",
+    "longinqua",
+    "Badumna",
+    "Desidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Dysdera crocata",
+    "crocata",
+    "Dysdera",
+    "Dysderidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Kukulcania hibernalis",
+    "hibernalis",
+    "Kukulcania",
+    "Filistatidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Herpyllus ecclesiasticus",
+    "ecclesiasticus",
+    "Herpyllus",
+    "Gnaphosidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Frontinella pyramitela",
+    "pyramitela",
+    "Frontinella",
+    "Linyphiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Neriene radiata",
+    "radiata",
+    "Neriene",
+    "Linyphiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hogna radiata",
+    "radiata",
+    "Hogna",
+    "Lycosidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Rabidosa rabida",
+    "rabida",
+    "Rabidosa",
+    "Lycosidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Oxyopes salticus",
+    "salticus",
+    "Oxyopes",
+    "Oxyopidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Oxyopes scalaris",
+    "scalaris",
+    "Oxyopes",
+    "Oxyopidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Peucetia viridans",
+    "viridans",
+    "Peucetia",
+    "Oxyopidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Holocnemus pluchei",
+    "pluchei",
+    "Holocnemus",
+    "Pholcidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pholcus phalangioides",
+    "phalangioides",
+    "Pholcus",
+    "Pholcidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Dolomedes albineus",
+    "albineus",
+    "Dolomedes",
+    "Pisauridae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Dolomedes minor",
+    "minor",
+    "Dolomedes",
+    "Pisauridae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Dolomedes scriptus",
+    "scriptus",
+    "Dolomedes",
+    "Pisauridae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Dolomedes tenebrosus",
+    "tenebrosus",
+    "Dolomedes",
+    "Pisauridae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Dolomedes triton",
+    "triton",
+    "Dolomedes",
+    "Pisauridae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pisaura mirabilis",
+    "mirabilis",
+    "Pisaura",
+    "Pisauridae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pisaurina mira",
+    "mira",
+    "Pisaurina",
+    "Pisauridae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Anasaitis canosa",
+    "canosa",
+    "Anasaitis",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Attulus fasciger",
+    "fasciger",
+    "Attulus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Colonus hesperus",
+    "hesperus",
+    "Colonus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Colonus sylvanus",
+    "sylvanus",
+    "Colonus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Eris militaris",
+    "militaris",
+    "Eris",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hasarius adansoni",
+    "adansoni",
+    "Hasarius",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Helpis minitabunda",
+    "minitabunda",
+    "Helpis",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hentzia mitrata",
+    "mitrata",
+    "Hentzia",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hentzia palmarum",
+    "palmarum",
+    "Hentzia",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hypoblemum griseum",
+    "griseum",
+    "Hypoblemum",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Lyssomanes viridis",
+    "viridis",
+    "Lyssomanes",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Maevia inclemens",
+    "inclemens",
+    "Maevia",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Marpissa muscosa",
+    "muscosa",
+    "Marpissa",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Menemerus bivittatus",
+    "bivittatus",
+    "Menemerus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Menemerus semilimbatus",
+    "semilimbatus",
+    "Menemerus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Metacyrba taeniola",
+    "taeniola",
+    "Metacyrba",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Naphrys pulex",
+    "pulex",
+    "Naphrys",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Paraphidippus aurantius",
+    "aurantius",
+    "Paraphidippus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pelegrina galathea",
+    "galathea",
+    "Pelegrina",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Phidippus audax",
+    "audax",
+    "Phidippus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Phidippus clarus",
+    "clarus",
+    "Phidippus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Phidippus johnsoni",
+    "johnsoni",
+    "Phidippus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Philaeus chrysops",
+    "chrysops",
+    "Philaeus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Platycryptus undatus",
+    "undatus",
+    "Platycryptus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Plexippus paykulli",
+    "paykulli",
+    "Plexippus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Salticus scenicus",
+    "scenicus",
+    "Salticus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Sassacus vitis",
+    "vitis",
+    "Sassacus",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Trite auricoma",
+    "auricoma",
+    "Trite",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Trite planiceps",
+    "planiceps",
+    "Trite",
+    "Salticidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Loxosceles reclusa",
+    "reclusa",
+    "Loxosceles",
+    "Sicariidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Heteropoda venatoria",
+    "venatoria",
+    "Heteropoda",
+    "Sparassidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Micrommata virescens",
+    "virescens",
+    "Micrommata",
+    "Sparassidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Olios giganteus",
+    "giganteus",
+    "Olios",
+    "Sparassidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Leucauge argyra",
+    "argyra",
+    "Leucauge",
+    "Tetragnathidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Leucauge argyrobapta",
+    "argyrobapta",
+    "Leucauge",
+    "Tetragnathidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Leucauge venusta",
+    "venusta",
+    "Leucauge",
+    "Tetragnathidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Aphonopelma chalcodes",
+    "chalcodes",
+    "Aphonopelma",
+    "Theraphosidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Aphonopelma eutylenum",
+    "eutylenum",
+    "Aphonopelma",
+    "Theraphosidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Aphonopelma hentzi",
+    "hentzi",
+    "Aphonopelma",
+    "Theraphosidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Aphonopelma iodius",
+    "iodius",
+    "Aphonopelma",
+    "Theraphosidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Enoplognatha ovata",
+    "ovata",
+    "Enoplognatha",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Latrodectus geometricus",
+    "geometricus",
+    "Latrodectus",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Latrodectus hasselti",
+    "hasselti",
+    "Latrodectus",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Latrodectus hesperus",
+    "hesperus",
+    "Latrodectus",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Latrodectus katipo",
+    "katipo",
+    "Latrodectus",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Latrodectus mactans",
+    "mactans",
+    "Latrodectus",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Latrodectus variolus",
+    "variolus",
+    "Latrodectus",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Parasteatoda tepidariorum",
+    "tepidariorum",
+    "Parasteatoda",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Steatoda capensis",
+    "capensis",
+    "Steatoda",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Steatoda grossa",
+    "grossa",
+    "Steatoda",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Steatoda nobilis",
+    "nobilis",
+    "Steatoda",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Steatoda triangulosa",
+    "triangulosa",
+    "Steatoda",
+    "Theridiidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Misumena vatia",
+    "vatia",
+    "Misumena",
+    "Thomisidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Misumenoides formosipes",
+    "formosipes",
+    "Misumenoides",
+    "Thomisidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Sidymella trapezia",
+    "trapezia",
+    "Sidymella",
+    "Thomisidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Synema globosum",
+    "globosum",
+    "Synema",
+    "Thomisidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Thomisus onustus",
+    "onustus",
+    "Thomisus",
+    "Thomisidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Zoropsis spinimana",
+    "spinimana",
+    "Zoropsis",
+    "Zoropsidae",
+    "Araneae",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Aceria parulmi",
+    "parulmi",
+    "Aceria",
+    "Eriophyidae",
+    "Endeostigmata",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Aculops rhois",
+    "rhois",
+    "Aculops",
+    "Eriophyidae",
+    "Endeostigmata",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Aculus tetanothrix",
+    "tetanothrix",
+    "Aculus",
+    "Eriophyidae",
+    "Endeostigmata",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Eriophyes cerasicrumena",
+    "cerasicrumena",
+    "Eriophyes",
+    "Eriophyidae",
+    "Endeostigmata",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Eriophyes tiliae",
+    "tiliae",
+    "Eriophyes",
+    "Eriophyidae",
+    "Endeostigmata",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Vasates quadripedes",
+    "quadripedes",
+    "Vasates",
+    "Eriophyidae",
+    "Endeostigmata",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Amblyomma americanum",
+    "americanum",
+    "Amblyomma",
+    "Ixodidae",
+    "Ixodida",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Dermacentor occidentalis",
+    "occidentalis",
+    "Dermacentor",
+    "Ixodidae",
+    "Ixodida",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Dermacentor variabilis",
+    "variabilis",
+    "Dermacentor",
+    "Ixodidae",
+    "Ixodida",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ixodes pacificus",
+    "pacificus",
+    "Ixodes",
+    "Ixodidae",
+    "Ixodida",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ixodes ricinus",
+    "ricinus",
+    "Ixodes",
+    "Ixodidae",
+    "Ixodida",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ixodes scapularis",
+    "scapularis",
+    "Ixodes",
+    "Ixodidae",
+    "Ixodida",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Mitopus morio",
+    "morio",
+    "Mitopus",
+    "Phalangiidae",
+    "Opiliones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Opilio canestrinii",
+    "canestrinii",
+    "Opilio",
+    "Phalangiidae",
+    "Opiliones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Phalangium opilio",
+    "opilio",
+    "Phalangium",
+    "Phalangiidae",
+    "Opiliones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Leiobunum rotundum",
+    "rotundum",
+    "Leiobunum",
+    "Sclerosomatidae",
+    "Opiliones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Leiobunum townsendi",
+    "townsendi",
+    "Leiobunum",
+    "Sclerosomatidae",
+    "Opiliones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Leiobunum vittatum",
+    "vittatum",
+    "Leiobunum",
+    "Sclerosomatidae",
+    "Opiliones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Centruroides sculpturatus",
+    "sculpturatus",
+    "Centruroides",
+    "Buthidae",
+    "Scorpiones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Centruroides vittatus",
+    "vittatus",
+    "Centruroides",
+    "Buthidae",
+    "Scorpiones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hadrurus arizonensis",
+    "arizonensis",
+    "Hadrurus",
+    "Caraboctonidae",
+    "Scorpiones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Paravaejovis puritanus",
+    "puritanus",
+    "Paravaejovis",
+    "Vaejovidae",
+    "Scorpiones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Paravaejovis spinigerus",
+    "spinigerus",
+    "Paravaejovis",
+    "Vaejovidae",
+    "Scorpiones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Paruroctonus silvestrii",
+    "silvestrii",
+    "Paruroctonus",
+    "Vaejovidae",
+    "Scorpiones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Uroctonus mordax",
+    "mordax",
+    "Uroctonus",
+    "Vaejovidae",
+    "Scorpiones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Vaejovis carolinianus",
+    "carolinianus",
+    "Vaejovis",
+    "Vaejovidae",
+    "Scorpiones",
+    "Arachnida",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hemiscolopendra marginata",
+    "marginata",
+    "Hemiscolopendra",
+    "Scolopendridae",
+    "Scolopendromorpha",
+    "Chilopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Scolopendra cingulata",
+    "cingulata",
+    "Scolopendra",
+    "Scolopendridae",
+    "Scolopendromorpha",
+    "Chilopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Scolopendra heros",
+    "heros",
+    "Scolopendra",
+    "Scolopendridae",
+    "Scolopendromorpha",
+    "Chilopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Scolopendra polymorpha",
+    "polymorpha",
+    "Scolopendra",
+    "Scolopendridae",
+    "Scolopendromorpha",
+    "Chilopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Scutigera coleoptrata",
+    "coleoptrata",
+    "Scutigera",
+    "Scutigeridae",
+    "Scutigeromorpha",
+    "Chilopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ommatoiulus moreleti",
+    "moreleti",
+    "Ommatoiulus",
+    "Julidae",
+    "Julida",
+    "Diplopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Oxidus gracilis",
+    "gracilis",
+    "Oxidus",
+    "Paradoxosomatidae",
+    "Polydesmida",
+    "Diplopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Apheloria virginiensis",
+    "virginiensis",
+    "Apheloria",
+    "Xystodesmidae",
+    "Polydesmida",
+    "Diplopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Harpaphe haydeniana",
+    "haydeniana",
+    "Harpaphe",
+    "Xystodesmidae",
+    "Polydesmida",
+    "Diplopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Anadenobolus monilicornis",
+    "monilicornis",
+    "Anadenobolus",
+    "Rhinocricidae",
+    "Spirobolida",
+    "Diplopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Trigoniulus corallinus",
+    "corallinus",
+    "Trigoniulus",
+    "Trigoniulidae",
+    "Spirobolida",
+    "Diplopoda",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Lepas anatifera",
+    "anatifera",
+    "Lepas",
+    "Lepadidae",
+    "Lepadiformes",
+    "Hexanauplia",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Lepas anserifera",
+    "anserifera",
+    "Lepas",
+    "Lepadidae",
+    "Lepadiformes",
+    "Hexanauplia",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pollicipes polymerus",
+    "polymerus",
+    "Pollicipes",
+    "Pollicipedidae",
+    "Scalpelliformes",
+    "Hexanauplia",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Balanus glandula",
+    "glandula",
+    "Balanus",
+    "Balanidae",
+    "Sessilia",
+    "Hexanauplia",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Semibalanus balanoides",
+    "balanoides",
+    "Semibalanus",
+    "Balanidae",
+    "Sessilia",
+    "Hexanauplia",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Semibalanus cariosus",
+    "cariosus",
+    "Semibalanus",
+    "Balanidae",
+    "Sessilia",
+    "Hexanauplia",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Tetraclita rubescens",
+    "rubescens",
+    "Tetraclita",
+    "Tetraclitidae",
+    "Sessilia",
+    "Hexanauplia",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pacifastacus leniusculus",
+    "leniusculus",
+    "Pacifastacus",
+    "Astacidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Faxonius virilis",
+    "virilis",
+    "Faxonius",
+    "Cambaridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Procambarus clarkii",
+    "clarkii",
+    "Procambarus",
+    "Cambaridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Cancer borealis",
+    "borealis",
+    "Cancer",
+    "Cancridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Cancer irroratus",
+    "irroratus",
+    "Cancer",
+    "Cancridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Cancer productus",
+    "productus",
+    "Cancer",
+    "Cancridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Metacarcinus magister",
+    "magister",
+    "Metacarcinus",
+    "Cancridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Romaleon antennarium",
+    "antennarium",
+    "Romaleon",
+    "Cancridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Carcinus maenas",
+    "maenas",
+    "Carcinus",
+    "Carcinidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Coenobita clypeatus",
+    "clypeatus",
+    "Coenobita",
+    "Coenobitidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Coenobita compressus",
+    "compressus",
+    "Coenobita",
+    "Coenobitidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pugettia producta",
+    "producta",
+    "Pugettia",
+    "Epialtidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Cardisoma guanhumi",
+    "guanhumi",
+    "Cardisoma",
+    "Gecarcinidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ovalipes ocellatus",
+    "ocellatus",
+    "Ovalipes",
+    "Geryonidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Grapsus grapsus",
+    "grapsus",
+    "Grapsus",
+    "Grapsidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Grapsus tenuicrustatus",
+    "tenuicrustatus",
+    "Grapsus",
+    "Grapsidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Leptograpsus variegatus",
+    "variegatus",
+    "Leptograpsus",
+    "Grapsidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pachygrapsus crassipes",
+    "crassipes",
+    "Pachygrapsus",
+    "Grapsidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pachygrapsus marmoratus",
+    "marmoratus",
+    "Pachygrapsus",
+    "Grapsidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Emerita analoga",
+    "analoga",
+    "Emerita",
+    "Hippidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Emerita talpoida",
+    "talpoida",
+    "Emerita",
+    "Hippidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Homarus americanus",
+    "americanus",
+    "Homarus",
+    "Nephropidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Leptuca crenulata",
+    "crenulata",
+    "Leptuca",
+    "Ocypodidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Leptuca pugilator",
+    "pugilator",
+    "Leptuca",
+    "Ocypodidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Minuca pugnax",
+    "pugnax",
+    "Minuca",
+    "Ocypodidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ocypode ceratophthalmus",
+    "ceratophthalmus",
+    "Ocypode",
+    "Ocypodidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ocypode gaudichaudii",
+    "gaudichaudii",
+    "Ocypode",
+    "Ocypodidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ocypode quadrata",
+    "quadrata",
+    "Ocypode",
+    "Ocypodidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Tubuca arcuata",
+    "arcuata",
+    "Tubuca",
+    "Ocypodidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pagurus granosimanus",
+    "granosimanus",
+    "Pagurus",
+    "Paguridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Pagurus samuelis",
+    "samuelis",
+    "Pagurus",
+    "Paguridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Palaemon affinis",
+    "affinis",
+    "Palaemon",
+    "Palaemonidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Panulirus argus",
+    "argus",
+    "Panulirus",
+    "Palinuridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Panulirus interruptus",
+    "interruptus",
+    "Panulirus",
+    "Palinuridae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Guinusia chabrus",
+    "chabrus",
+    "Guinusia",
+    "Plagusiidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Petrolisthes elongatus",
+    "elongatus",
+    "Petrolisthes",
+    "Porcellanidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Arenaeus cribrarius",
+    "cribrarius",
+    "Arenaeus",
+    "Portunidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Callinectes sapidus",
+    "sapidus",
+    "Callinectes",
+    "Portunidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Aratus pisonii",
+    "pisonii",
+    "Aratus",
+    "Sesarmidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Armases cinereum",
+    "cinereum",
+    "Armases",
+    "Sesarmidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Stenopus hispidus",
+    "hispidus",
+    "Stenopus",
+    "Stenopodidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hemigrapsus nudus",
+    "nudus",
+    "Hemigrapsus",
+    "Varunidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hemigrapsus oregonensis",
+    "oregonensis",
+    "Hemigrapsus",
+    "Varunidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Hemigrapsus sanguineus",
+    "sanguineus",
+    "Hemigrapsus",
+    "Varunidae",
+    "Decapoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Armadillidium nasatum",
+    "nasatum",
+    "Armadillidium",
+    "Armadillidiidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Armadillidium vulgare",
+    "vulgare",
+    "Armadillidium",
+    "Armadillidiidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ligia exotica",
+    "exotica",
+    "Ligia",
+    "Ligiidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Ligia occidentalis",
+    "occidentalis",
+    "Ligia",
+    "Ligiidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Oniscus asellus",
+    "asellus",
+    "Oniscus",
+    "Oniscidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Philoscia muscorum",
+    "muscorum",
+    "Philoscia",
+    "Philosciidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Porcellio laevis",
+    "laevis",
+    "Porcellio",
+    "Porcellionidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Porcellio scaber",
+    "scaber",
+    "Porcellio",
+    "Porcellionidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Porcellio spinicornis",
+    "spinicornis",
+    "Porcellio",
+    "Porcellionidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Trachelipus rathkii",
+    "rathkii",
+    "Trachelipus",
+    "Trachelipodidae",
+    "Isopoda",
+    "Malacostraca",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Limulus polyphemus",
+    "polyphemus",
+    "Limulus",
+    "Limulidae",
+    "Xiphosurida",
+    "Merostomata",
+    "Arthropoda",
+    "Animalia"
+  ],
+  [
+    "Botrylloides violaceus",
+    "violaceus",
+    "Botrylloides",
+    "Styelidae",
+    "Stolidobranchia",
+    "Ascidiacea",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Botryllus schlosseri",
+    "schlosseri",
+    "Botryllus",
+    "Styelidae",
+    "Stolidobranchia",
+    "Ascidiacea",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Triaenodon obesus",
+    "obesus",
+    "Triaenodon",
+    "Carcharhinidae",
+    "Carcharhiniformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Triakis semifasciata",
+    "semifasciata",
+    "Triakis",
+    "Triakidae",
+    "Carcharhiniformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Heterodontus portusjacksoni",
+    "portusjacksoni",
+    "Heterodontus",
+    "Heterodontidae",
+    "Heterodontiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Carcharias taurus",
+    "taurus",
+    "Carcharias",
+    "Odontaspididae",
+    "Lamniformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aetobatus narinari",
+    "narinari",
+    "Aetobatus",
+    "Aetobatidae",
+    "Myliobatiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bathytoshia brevicaudata",
+    "brevicaudata",
+    "Bathytoshia",
+    "Dasyatidae",
+    "Myliobatiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hypanus americanus",
+    "americanus",
+    "Hypanus",
+    "Dasyatidae",
+    "Myliobatiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Taeniura lymma",
+    "lymma",
+    "Taeniura",
+    "Dasyatidae",
+    "Myliobatiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Myliobatis californica",
+    "californica",
+    "Myliobatis",
+    "Myliobatidae",
+    "Myliobatiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Myliobatis tenuicaudatus",
+    "tenuicaudatus",
+    "Myliobatis",
+    "Myliobatidae",
+    "Myliobatiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trygonoptera testacea",
+    "testacea",
+    "Trygonoptera",
+    "Urolophidae",
+    "Myliobatiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Urobatis halleri",
+    "halleri",
+    "Urobatis",
+    "Urotrygonidae",
+    "Myliobatiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ginglymostoma cirratum",
+    "cirratum",
+    "Ginglymostoma",
+    "Ginglymostomatidae",
+    "Orectolobiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Orectolobus halei",
+    "halei",
+    "Orectolobus",
+    "Orectolobidae",
+    "Orectolobiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Orectolobus maculatus",
+    "maculatus",
+    "Orectolobus",
+    "Orectolobidae",
+    "Orectolobiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trygonorrhina fasciata",
+    "fasciata",
+    "Trygonorrhina",
+    "Trygonorrhinidae",
+    "Rhinopristiformes",
+    "Elasmobranchii",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Antilocapra americana",
+    "americana",
+    "Antilocapra",
+    "Antilocapridae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Balaenoptera acutorostrata",
+    "acutorostrata",
+    "Balaenoptera",
+    "Balaenopteridae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Megaptera novaeangliae",
+    "novaeangliae",
+    "Megaptera",
+    "Balaenopteridae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aepyceros melampus",
+    "melampus",
+    "Aepyceros",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Alcelaphus buselaphus",
+    "buselaphus",
+    "Alcelaphus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Antidorcas marsupialis",
+    "marsupialis",
+    "Antidorcas",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bison bison",
+    "bison",
+    "Bison",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bos taurus",
+    "taurus",
+    "Bos",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Boselaphus tragocamelus",
+    "tragocamelus",
+    "Boselaphus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bubalus bubalis",
+    "bubalis",
+    "Bubalus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Capra hircus",
+    "hircus",
+    "Capra",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Capra ibex",
+    "ibex",
+    "Capra",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Connochaetes taurinus",
+    "taurinus",
+    "Connochaetes",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Damaliscus pygargus",
+    "pygargus",
+    "Damaliscus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gazella gazella",
+    "gazella",
+    "Gazella",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hippotragus equinus",
+    "equinus",
+    "Hippotragus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Kobus ellipsiprymnus",
+    "ellipsiprymnus",
+    "Kobus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Kobus kob",
+    "kob",
+    "Kobus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Oreamnos americanus",
+    "americanus",
+    "Oreamnos",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Oreotragus oreotragus",
+    "oreotragus",
+    "Oreotragus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Oryx gazella",
+    "gazella",
+    "Oryx",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ovis aries",
+    "aries",
+    "Ovis",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ovis canadensis",
+    "canadensis",
+    "Ovis",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Raphicerus campestris",
+    "campestris",
+    "Raphicerus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Rupicapra rupicapra",
+    "rupicapra",
+    "Rupicapra",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sylvicapra grimmia",
+    "grimmia",
+    "Sylvicapra",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Syncerus caffer",
+    "caffer",
+    "Syncerus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tragelaphus angasii",
+    "angasii",
+    "Tragelaphus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tragelaphus oryx",
+    "oryx",
+    "Tragelaphus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tragelaphus scriptus",
+    "scriptus",
+    "Tragelaphus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tragelaphus strepsiceros",
+    "strepsiceros",
+    "Tragelaphus",
+    "Bovidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lama guanicoe",
+    "guanicoe",
+    "Lama",
+    "Camelidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Vicugna vicugna",
+    "vicugna",
+    "Vicugna",
+    "Camelidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Alces alces",
+    "alces",
+    "Alces",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Axis axis",
+    "axis",
+    "Axis",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Capreolus capreolus",
+    "capreolus",
+    "Capreolus",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cervus canadensis",
+    "canadensis",
+    "Cervus",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cervus elaphus",
+    "elaphus",
+    "Cervus",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cervus nippon",
+    "nippon",
+    "Cervus",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Dama dama",
+    "dama",
+    "Dama",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Odocoileus hemionus",
+    "hemionus",
+    "Odocoileus",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Odocoileus virginianus",
+    "virginianus",
+    "Odocoileus",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Rangifer tarandus",
+    "tarandus",
+    "Rangifer",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Rusa unicolor",
+    "unicolor",
+    "Rusa",
+    "Cervidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Delphinus delphis",
+    "delphis",
+    "Delphinus",
+    "Delphinidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Grampus griseus",
+    "griseus",
+    "Grampus",
+    "Delphinidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Orcinus orca",
+    "orca",
+    "Orcinus",
+    "Delphinidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tursiops truncatus",
+    "truncatus",
+    "Tursiops",
+    "Delphinidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Eschrichtius robustus",
+    "robustus",
+    "Eschrichtius",
+    "Eschrichtiidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Giraffa camelopardalis",
+    "camelopardalis",
+    "Giraffa",
+    "Giraffidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hippopotamus amphibius",
+    "amphibius",
+    "Hippopotamus",
+    "Hippopotamidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phocoena phocoena",
+    "phocoena",
+    "Phocoena",
+    "Phocoenidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phacochoerus africanus",
+    "africanus",
+    "Phacochoerus",
+    "Suidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sus scrofa",
+    "scrofa",
+    "Sus",
+    "Suidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pecari tajacu",
+    "tajacu",
+    "Pecari",
+    "Tayassuidae",
+    "Artiodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Canis aureus",
+    "aureus",
+    "Canis",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Canis familiaris",
+    "familiaris",
+    "Canis",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Canis latrans",
+    "latrans",
+    "Canis",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Canis lupus",
+    "lupus",
+    "Canis",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Canis mesomelas",
+    "mesomelas",
+    "Canis",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lycalopex culpaeus",
+    "culpaeus",
+    "Lycalopex",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lycalopex griseus",
+    "griseus",
+    "Lycalopex",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Urocyon cinereoargenteus",
+    "cinereoargenteus",
+    "Urocyon",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Urocyon littoralis",
+    "littoralis",
+    "Urocyon",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Vulpes vulpes",
+    "vulpes",
+    "Vulpes",
+    "Canidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Acinonyx jubatus",
+    "jubatus",
+    "Acinonyx",
+    "Felidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Felis catus",
+    "catus",
+    "Felis",
+    "Felidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lynx canadensis",
+    "canadensis",
+    "Lynx",
+    "Felidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lynx rufus",
+    "rufus",
+    "Lynx",
+    "Felidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Panthera leo",
+    "leo",
+    "Panthera",
+    "Felidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Panthera onca",
+    "onca",
+    "Panthera",
+    "Felidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Panthera pardus",
+    "pardus",
+    "Panthera",
+    "Felidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Puma concolor",
+    "concolor",
+    "Puma",
+    "Felidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mungos mungo",
+    "mungo",
+    "Mungos",
+    "Herpestidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Urva auropunctata",
+    "auropunctata",
+    "Urva",
+    "Herpestidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crocuta crocuta",
+    "crocuta",
+    "Crocuta",
+    "Hyaenidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Conepatus leuconotus",
+    "leuconotus",
+    "Conepatus",
+    "Mephitidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mephitis macroura",
+    "macroura",
+    "Mephitis",
+    "Mephitidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mephitis mephitis",
+    "mephitis",
+    "Mephitis",
+    "Mephitidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Enhydra lutris",
+    "lutris",
+    "Enhydra",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lontra canadensis",
+    "canadensis",
+    "Lontra",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lutra lutra",
+    "lutra",
+    "Lutra",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Martes americana",
+    "americana",
+    "Martes",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Martes foina",
+    "foina",
+    "Martes",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Meles meles",
+    "meles",
+    "Meles",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mustela erminea",
+    "erminea",
+    "Mustela",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mustela frenata",
+    "frenata",
+    "Mustela",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mustela nivalis",
+    "nivalis",
+    "Mustela",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Neovison vison",
+    "vison",
+    "Neovison",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pekania pennanti",
+    "pennanti",
+    "Pekania",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Taxidea taxus",
+    "taxus",
+    "Taxidea",
+    "Mustelidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Arctocephalus forsteri",
+    "forsteri",
+    "Arctocephalus",
+    "Otariidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Arctocephalus pusillus",
+    "pusillus",
+    "Arctocephalus",
+    "Otariidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Eumetopias jubatus",
+    "jubatus",
+    "Eumetopias",
+    "Otariidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Otaria byronia",
+    "byronia",
+    "Otaria",
+    "Otariidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phocarctos hookeri",
+    "hookeri",
+    "Phocarctos",
+    "Otariidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Zalophus californianus",
+    "californianus",
+    "Zalophus",
+    "Otariidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Zalophus wollebaeki",
+    "wollebaeki",
+    "Zalophus",
+    "Otariidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Halichoerus grypus",
+    "grypus",
+    "Halichoerus",
+    "Phocidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mirounga angustirostris",
+    "angustirostris",
+    "Mirounga",
+    "Phocidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mirounga leonina",
+    "leonina",
+    "Mirounga",
+    "Phocidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Neomonachus schauinslandi",
+    "schauinslandi",
+    "Neomonachus",
+    "Phocidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phoca vitulina",
+    "vitulina",
+    "Phoca",
+    "Phocidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bassariscus astutus",
+    "astutus",
+    "Bassariscus",
+    "Procyonidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Nasua narica",
+    "narica",
+    "Nasua",
+    "Procyonidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Nasua nasua",
+    "nasua",
+    "Nasua",
+    "Procyonidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Procyon lotor",
+    "lotor",
+    "Procyon",
+    "Procyonidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ursus americanus",
+    "americanus",
+    "Ursus",
+    "Ursidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ursus arctos",
+    "arctos",
+    "Ursus",
+    "Ursidae",
+    "Carnivora",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Rhynchonycteris naso",
+    "naso",
+    "Rhynchonycteris",
+    "Emballonuridae",
+    "Chiroptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tadarida brasiliensis",
+    "brasiliensis",
+    "Tadarida",
+    "Molossidae",
+    "Chiroptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pteropus giganteus",
+    "giganteus",
+    "Pteropus",
+    "Pteropodidae",
+    "Chiroptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pteropus poliocephalus",
+    "poliocephalus",
+    "Pteropus",
+    "Pteropodidae",
+    "Chiroptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Eptesicus fuscus",
+    "fuscus",
+    "Eptesicus",
+    "Vespertilionidae",
+    "Chiroptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lasionycteris noctivagans",
+    "noctivagans",
+    "Lasionycteris",
+    "Vespertilionidae",
+    "Chiroptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lasiurus borealis",
+    "borealis",
+    "Lasiurus",
+    "Vespertilionidae",
+    "Chiroptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lasiurus cinereus",
+    "cinereus",
+    "Lasiurus",
+    "Vespertilionidae",
+    "Chiroptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Perimyotis subflavus",
+    "subflavus",
+    "Perimyotis",
+    "Vespertilionidae",
+    "Chiroptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Dasypus novemcinctus",
+    "novemcinctus",
+    "Dasypus",
+    "Dasypodidae",
+    "Cingulata",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Galeopterus variegatus",
+    "variegatus",
+    "Galeopterus",
+    "Cynocephalidae",
+    "Dermoptera",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Didelphis marsupialis",
+    "marsupialis",
+    "Didelphis",
+    "Didelphidae",
+    "Didelphimorphia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Didelphis virginiana",
+    "virginiana",
+    "Didelphis",
+    "Didelphidae",
+    "Didelphimorphia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Macropus agilis",
+    "agilis",
+    "Macropus",
+    "Macropodidae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Macropus fuliginosus",
+    "fuliginosus",
+    "Macropus",
+    "Macropodidae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Macropus giganteus",
+    "giganteus",
+    "Macropus",
+    "Macropodidae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Macropus robustus",
+    "robustus",
+    "Macropus",
+    "Macropodidae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Macropus rufogriseus",
+    "rufogriseus",
+    "Macropus",
+    "Macropodidae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Wallabia bicolor",
+    "bicolor",
+    "Wallabia",
+    "Macropodidae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trichosurus vulpecula",
+    "vulpecula",
+    "Trichosurus",
+    "Phalangeridae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phascolarctos cinereus",
+    "cinereus",
+    "Phascolarctos",
+    "Phascolarctidae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pseudocheirus peregrinus",
+    "peregrinus",
+    "Pseudocheirus",
+    "Pseudocheiridae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Vombatus ursinus",
+    "ursinus",
+    "Vombatus",
+    "Vombatidae",
+    "Diprotodontia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Erinaceus europaeus",
+    "europaeus",
+    "Erinaceus",
+    "Erinaceidae",
+    "Eulipotyphla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Erinaceus roumanicus",
+    "roumanicus",
+    "Erinaceus",
+    "Erinaceidae",
+    "Eulipotyphla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Blarina brevicauda",
+    "brevicauda",
+    "Blarina",
+    "Soricidae",
+    "Eulipotyphla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Condylura cristata",
+    "cristata",
+    "Condylura",
+    "Talpidae",
+    "Eulipotyphla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Scalopus aquaticus",
+    "aquaticus",
+    "Scalopus",
+    "Talpidae",
+    "Eulipotyphla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Scapanus latimanus",
+    "latimanus",
+    "Scapanus",
+    "Talpidae",
+    "Eulipotyphla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Talpa europaea",
+    "europaea",
+    "Talpa",
+    "Talpidae",
+    "Eulipotyphla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Procavia capensis",
+    "capensis",
+    "Procavia",
+    "Procaviidae",
+    "Hyracoidea",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lepus americanus",
+    "americanus",
+    "Lepus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lepus californicus",
+    "californicus",
+    "Lepus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lepus europaeus",
+    "europaeus",
+    "Lepus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lepus townsendii",
+    "townsendii",
+    "Lepus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Oryctolagus cuniculus",
+    "cuniculus",
+    "Oryctolagus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sylvilagus aquaticus",
+    "aquaticus",
+    "Sylvilagus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sylvilagus audubonii",
+    "audubonii",
+    "Sylvilagus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sylvilagus bachmani",
+    "bachmani",
+    "Sylvilagus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sylvilagus cunicularius",
+    "cunicularius",
+    "Sylvilagus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sylvilagus floridanus",
+    "floridanus",
+    "Sylvilagus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sylvilagus nuttallii",
+    "nuttallii",
+    "Sylvilagus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sylvilagus palustris",
+    "palustris",
+    "Sylvilagus",
+    "Leporidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ochotona princeps",
+    "princeps",
+    "Ochotona",
+    "Ochotonidae",
+    "Lagomorpha",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ornithorhynchus anatinus",
+    "anatinus",
+    "Ornithorhynchus",
+    "Ornithorhynchidae",
+    "Monotremata",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tachyglossus aculeatus",
+    "aculeatus",
+    "Tachyglossus",
+    "Tachyglossidae",
+    "Monotremata",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Equus asinus",
+    "asinus",
+    "Equus",
+    "Equidae",
+    "Perissodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Equus caballus",
+    "caballus",
+    "Equus",
+    "Equidae",
+    "Perissodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Equus quagga",
+    "quagga",
+    "Equus",
+    "Equidae",
+    "Perissodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ceratotherium simum",
+    "simum",
+    "Ceratotherium",
+    "Rhinocerotidae",
+    "Perissodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tapirus terrestris",
+    "terrestris",
+    "Tapirus",
+    "Tapiridae",
+    "Perissodactyla",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bradypus variegatus",
+    "variegatus",
+    "Bradypus",
+    "Bradypodidae",
+    "Pilosa",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Choloepus hoffmanni",
+    "hoffmanni",
+    "Choloepus",
+    "Megalonychidae",
+    "Pilosa",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tamandua mexicana",
+    "mexicana",
+    "Tamandua",
+    "Myrmecophagidae",
+    "Pilosa",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Alouatta palliata",
+    "palliata",
+    "Alouatta",
+    "Atelidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Alouatta pigra",
+    "pigra",
+    "Alouatta",
+    "Atelidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Alouatta seniculus",
+    "seniculus",
+    "Alouatta",
+    "Atelidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ateles geoffroyi",
+    "geoffroyi",
+    "Ateles",
+    "Atelidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Callithrix penicillata",
+    "penicillata",
+    "Callithrix",
+    "Cebidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cebus capucinus",
+    "capucinus",
+    "Cebus",
+    "Cebidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cercopithecus mitis",
+    "mitis",
+    "Cercopithecus",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Chlorocebus pygerythrus",
+    "pygerythrus",
+    "Chlorocebus",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Macaca cyclopis",
+    "cyclopis",
+    "Macaca",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Macaca fascicularis",
+    "fascicularis",
+    "Macaca",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Macaca mulatta",
+    "mulatta",
+    "Macaca",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Macaca radiata",
+    "radiata",
+    "Macaca",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Papio anubis",
+    "anubis",
+    "Papio",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Papio ursinus",
+    "ursinus",
+    "Papio",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Semnopithecus entellus",
+    "entellus",
+    "Semnopithecus",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trachypithecus obscurus",
+    "obscurus",
+    "Trachypithecus",
+    "Cercopithecidae",
+    "Primates",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Elephas maximus",
+    "maximus",
+    "Elephas",
+    "Elephantidae",
+    "Proboscidea",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Loxodonta africana",
+    "africana",
+    "Loxodonta",
+    "Elephantidae",
+    "Proboscidea",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Castor canadensis",
+    "canadensis",
+    "Castor",
+    "Castoridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Castor fiber",
+    "fiber",
+    "Castor",
+    "Castoridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cavia aperea",
+    "aperea",
+    "Cavia",
+    "Caviidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hydrochoerus hydrochaeris",
+    "hydrochaeris",
+    "Hydrochoerus",
+    "Caviidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lagidium viscacia",
+    "viscacia",
+    "Lagidium",
+    "Chinchillidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Microtus californicus",
+    "californicus",
+    "Microtus",
+    "Cricetidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Microtus pennsylvanicus",
+    "pennsylvanicus",
+    "Microtus",
+    "Cricetidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Myodes glareolus",
+    "glareolus",
+    "Myodes",
+    "Cricetidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Neotoma fuscipes",
+    "fuscipes",
+    "Neotoma",
+    "Cricetidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ondatra zibethicus",
+    "zibethicus",
+    "Ondatra",
+    "Cricetidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Peromyscus leucopus",
+    "leucopus",
+    "Peromyscus",
+    "Cricetidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Peromyscus maniculatus",
+    "maniculatus",
+    "Peromyscus",
+    "Cricetidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sigmodon hispidus",
+    "hispidus",
+    "Sigmodon",
+    "Cricetidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Dasyprocta punctata",
+    "punctata",
+    "Dasyprocta",
+    "Dasyproctidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Myocastor coypus",
+    "coypus",
+    "Myocastor",
+    "Echimyidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Erethizon dorsatum",
+    "dorsatum",
+    "Erethizon",
+    "Erethizontidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thomomys bottae",
+    "bottae",
+    "Thomomys",
+    "Geomyidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hystrix africaeaustralis",
+    "africaeaustralis",
+    "Hystrix",
+    "Hystricidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hystrix cristata",
+    "cristata",
+    "Hystrix",
+    "Hystricidae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mus musculus",
+    "musculus",
+    "Mus",
+    "Muridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Rattus norvegicus",
+    "norvegicus",
+    "Rattus",
+    "Muridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Rattus rattus",
+    "rattus",
+    "Rattus",
+    "Muridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Rhabdomys pumilio",
+    "pumilio",
+    "Rhabdomys",
+    "Muridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ammospermophilus harrisii",
+    "harrisii",
+    "Ammospermophilus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ammospermophilus leucurus",
+    "leucurus",
+    "Ammospermophilus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Callosciurus erythraeus",
+    "erythraeus",
+    "Callosciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Callosciurus notatus",
+    "notatus",
+    "Callosciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Callospermophilus lateralis",
+    "lateralis",
+    "Callospermophilus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Callospermophilus saturatus",
+    "saturatus",
+    "Callospermophilus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cynomys ludovicianus",
+    "ludovicianus",
+    "Cynomys",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Eutamias sibiricus",
+    "sibiricus",
+    "Eutamias",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Funambulus palmarum",
+    "palmarum",
+    "Funambulus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Funambulus pennantii",
+    "pennantii",
+    "Funambulus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Geosciurus inauris",
+    "inauris",
+    "Geosciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Glaucomys volans",
+    "volans",
+    "Glaucomys",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ictidomys tridecemlineatus",
+    "tridecemlineatus",
+    "Ictidomys",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Marmota caligata",
+    "caligata",
+    "Marmota",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Marmota flaviventris",
+    "flaviventris",
+    "Marmota",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Marmota marmota",
+    "marmota",
+    "Marmota",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Marmota monax",
+    "monax",
+    "Marmota",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Neotamias amoenus",
+    "amoenus",
+    "Neotamias",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Neotamias dorsalis",
+    "dorsalis",
+    "Neotamias",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Neotamias merriami",
+    "merriami",
+    "Neotamias",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Neotamias minimus",
+    "minimus",
+    "Neotamias",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Neotamias townsendii",
+    "townsendii",
+    "Neotamias",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Otospermophilus beecheyi",
+    "beecheyi",
+    "Otospermophilus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Otospermophilus variegatus",
+    "variegatus",
+    "Otospermophilus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus aberti",
+    "aberti",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus alleni",
+    "alleni",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus aureogaster",
+    "aureogaster",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus carolinensis",
+    "carolinensis",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus granatensis",
+    "granatensis",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus griseus",
+    "griseus",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus niger",
+    "niger",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus variegatoides",
+    "variegatoides",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus vulgaris",
+    "vulgaris",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sciurus yucatanensis",
+    "yucatanensis",
+    "Sciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tamias striatus",
+    "striatus",
+    "Tamias",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tamiasciurus douglasii",
+    "douglasii",
+    "Tamiasciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tamiasciurus hudsonicus",
+    "hudsonicus",
+    "Tamiasciurus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Urocitellus beldingi",
+    "beldingi",
+    "Urocitellus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Urocitellus columbianus",
+    "columbianus",
+    "Urocitellus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Urocitellus richardsonii",
+    "richardsonii",
+    "Urocitellus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Xerospermophilus tereticaudus",
+    "tereticaudus",
+    "Xerospermophilus",
+    "Sciuridae",
+    "Rodentia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trichechus manatus",
+    "manatus",
+    "Trichechus",
+    "Trichechidae",
+    "Sirenia",
+    "Mammalia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Alligator mississippiensis",
+    "mississippiensis",
+    "Alligator",
+    "Alligatoridae",
+    "Crocodylia",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Caiman crocodilus",
+    "crocodilus",
+    "Caiman",
+    "Alligatoridae",
+    "Crocodylia",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crocodylus acutus",
+    "acutus",
+    "Crocodylus",
+    "Crocodylidae",
+    "Crocodylia",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crocodylus moreletii",
+    "moreletii",
+    "Crocodylus",
+    "Crocodylidae",
+    "Crocodylia",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crocodylus niloticus",
+    "niloticus",
+    "Crocodylus",
+    "Crocodylidae",
+    "Crocodylia",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crocodylus porosus",
+    "porosus",
+    "Crocodylus",
+    "Crocodylidae",
+    "Crocodylia",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sphenodon punctatus",
+    "punctatus",
+    "Sphenodon",
+    "Sphenodontidae",
+    "Rhynchocephalia",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Acanthocercus atricollis",
+    "atricollis",
+    "Acanthocercus",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Agama atra",
+    "atra",
+    "Agama",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Agama picticauda",
+    "picticauda",
+    "Agama",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Amphibolurus muricatus",
+    "muricatus",
+    "Amphibolurus",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bronchocela cristatella",
+    "cristatella",
+    "Bronchocela",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bronchocela jubata",
+    "jubata",
+    "Bronchocela",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Calotes calotes",
+    "calotes",
+    "Calotes",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Calotes versicolor",
+    "versicolor",
+    "Calotes",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Diploderma swinhonis",
+    "swinhonis",
+    "Diploderma",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Intellagama lesueurii",
+    "lesueurii",
+    "Intellagama",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pogona barbata",
+    "barbata",
+    "Pogona",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Stellagama stellio",
+    "stellio",
+    "Stellagama",
+    "Agamidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anguis fragilis",
+    "fragilis",
+    "Anguis",
+    "Anguidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anguis veronensis",
+    "veronensis",
+    "Anguis",
+    "Anguidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Barisia imbricata",
+    "imbricata",
+    "Barisia",
+    "Anguidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Elgaria coerulea",
+    "coerulea",
+    "Elgaria",
+    "Anguidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Elgaria kingii",
+    "kingii",
+    "Elgaria",
+    "Anguidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Elgaria multicarinata",
+    "multicarinata",
+    "Elgaria",
+    "Anguidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gerrhonotus infernalis",
+    "infernalis",
+    "Gerrhonotus",
+    "Anguidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ophisaurus attenuatus",
+    "attenuatus",
+    "Ophisaurus",
+    "Anguidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ophisaurus ventralis",
+    "ventralis",
+    "Ophisaurus",
+    "Anguidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Boa constrictor",
+    "constrictor",
+    "Boa",
+    "Boidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Boa imperator",
+    "imperator",
+    "Boa",
+    "Boidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Charina bottae",
+    "bottae",
+    "Charina",
+    "Boidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lichanura orcutti",
+    "orcutti",
+    "Lichanura",
+    "Boidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bradypodion damaranum",
+    "damaranum",
+    "Bradypodion",
+    "Chamaeleonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bradypodion pumilum",
+    "pumilum",
+    "Bradypodion",
+    "Chamaeleonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Chamaeleo chamaeleon",
+    "chamaeleon",
+    "Chamaeleo",
+    "Chamaeleonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Chamaeleo dilepis",
+    "dilepis",
+    "Chamaeleo",
+    "Chamaeleonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ahaetulla prasina",
+    "prasina",
+    "Ahaetulla",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Arizona elegans",
+    "elegans",
+    "Arizona",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Carphophis amoenus",
+    "amoenus",
+    "Carphophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cemophora coccinea",
+    "coccinea",
+    "Cemophora",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Chionactis occipitalis",
+    "occipitalis",
+    "Chionactis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Coluber constrictor",
+    "constrictor",
+    "Coluber",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Contia tenuis",
+    "tenuis",
+    "Contia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Coronella austriaca",
+    "austriaca",
+    "Coronella",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotaphopeltis hotamboeia",
+    "hotamboeia",
+    "Crotaphopeltis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Dendrelaphis pictus",
+    "pictus",
+    "Dendrelaphis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Dendrelaphis punctulatus",
+    "punctulatus",
+    "Dendrelaphis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Diadophis punctatus",
+    "punctatus",
+    "Diadophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Dispholidus typus",
+    "typus",
+    "Dispholidus",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Drymarchon melanurus",
+    "melanurus",
+    "Drymarchon",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Farancia abacura",
+    "abacura",
+    "Farancia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Haldea striatula",
+    "striatula",
+    "Haldea",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Heterodon nasicus",
+    "nasicus",
+    "Heterodon",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Heterodon platirhinos",
+    "platirhinos",
+    "Heterodon",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hierophis viridiflavus",
+    "viridiflavus",
+    "Hierophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hypsiglena chlorophaea",
+    "chlorophaea",
+    "Hypsiglena",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hypsiglena jani",
+    "jani",
+    "Hypsiglena",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hypsiglena ochrorhynchus",
+    "ochrorhynchus",
+    "Hypsiglena",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Imantodes cenchoa",
+    "cenchoa",
+    "Imantodes",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropeltis californiae",
+    "californiae",
+    "Lampropeltis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropeltis calligaster",
+    "calligaster",
+    "Lampropeltis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropeltis gentilis",
+    "gentilis",
+    "Lampropeltis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropeltis getula",
+    "getula",
+    "Lampropeltis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropeltis holbrooki",
+    "holbrooki",
+    "Lampropeltis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropeltis nigra",
+    "nigra",
+    "Lampropeltis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropeltis splendida",
+    "splendida",
+    "Lampropeltis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropeltis triangulum",
+    "triangulum",
+    "Lampropeltis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Leptodeira septentrionalis",
+    "septentrionalis",
+    "Leptodeira",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Leptophis ahaetulla",
+    "ahaetulla",
+    "Leptophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Masticophis flagellum",
+    "flagellum",
+    "Masticophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Masticophis lateralis",
+    "lateralis",
+    "Masticophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Masticophis mentovarius",
+    "mentovarius",
+    "Masticophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Masticophis taeniatus",
+    "taeniatus",
+    "Masticophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Natrix helvetica",
+    "helvetica",
+    "Natrix",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Natrix maura",
+    "maura",
+    "Natrix",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Natrix natrix",
+    "natrix",
+    "Natrix",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Natrix tessellata",
+    "tessellata",
+    "Natrix",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Nerodia clarkii",
+    "clarkii",
+    "Nerodia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Nerodia erythrogaster",
+    "erythrogaster",
+    "Nerodia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Nerodia fasciata",
+    "fasciata",
+    "Nerodia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Nerodia floridana",
+    "floridana",
+    "Nerodia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Nerodia rhombifer",
+    "rhombifer",
+    "Nerodia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Nerodia sipedon",
+    "sipedon",
+    "Nerodia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Nerodia taxispilota",
+    "taxispilota",
+    "Nerodia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Opheodrys aestivus",
+    "aestivus",
+    "Opheodrys",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Opheodrys vernalis",
+    "vernalis",
+    "Opheodrys",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Oxybelis aeneus",
+    "aeneus",
+    "Oxybelis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pantherophis alleghaniensis",
+    "alleghaniensis",
+    "Pantherophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pantherophis emoryi",
+    "emoryi",
+    "Pantherophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pantherophis guttatus",
+    "guttatus",
+    "Pantherophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pantherophis obsoletus",
+    "obsoletus",
+    "Pantherophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pantherophis spiloides",
+    "spiloides",
+    "Pantherophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pantherophis vulpinus",
+    "vulpinus",
+    "Pantherophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phyllorhynchus decurtatus",
+    "decurtatus",
+    "Phyllorhynchus",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pituophis catenifer",
+    "catenifer",
+    "Pituophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pituophis deppei",
+    "deppei",
+    "Pituophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Regina grahamii",
+    "grahamii",
+    "Regina",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Regina septemvittata",
+    "septemvittata",
+    "Regina",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Rhinocheilus lecontei",
+    "lecontei",
+    "Rhinocheilus",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Salvadora grahamiae",
+    "grahamiae",
+    "Salvadora",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Salvadora hexalepis",
+    "hexalepis",
+    "Salvadora",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sonora semiannulata",
+    "semiannulata",
+    "Sonora",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Spilotes pullatus",
+    "pullatus",
+    "Spilotes",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Storeria dekayi",
+    "dekayi",
+    "Storeria",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Storeria occipitomaculata",
+    "occipitomaculata",
+    "Storeria",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tantilla gracilis",
+    "gracilis",
+    "Tantilla",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis atratus",
+    "atratus",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis cyrtopsis",
+    "cyrtopsis",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis elegans",
+    "elegans",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis hammondii",
+    "hammondii",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis marcianus",
+    "marcianus",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis ordinoides",
+    "ordinoides",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis proximus",
+    "proximus",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis radix",
+    "radix",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis saurita",
+    "saurita",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thamnophis sirtalis",
+    "sirtalis",
+    "Thamnophis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tropidoclonion lineatum",
+    "lineatum",
+    "Tropidoclonion",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Virginia valeriae",
+    "valeriae",
+    "Virginia",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Zamenis longissimus",
+    "longissimus",
+    "Zamenis",
+    "Colubridae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cordylus niger",
+    "niger",
+    "Cordylus",
+    "Cordylidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Basiliscus basiliscus",
+    "basiliscus",
+    "Basiliscus",
+    "Corytophanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Basiliscus plumifrons",
+    "plumifrons",
+    "Basiliscus",
+    "Corytophanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Basiliscus vittatus",
+    "vittatus",
+    "Basiliscus",
+    "Corytophanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Corytophanes cristatus",
+    "cristatus",
+    "Corytophanes",
+    "Corytophanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotaphytus bicinctores",
+    "bicinctores",
+    "Crotaphytus",
+    "Crotaphytidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotaphytus collaris",
+    "collaris",
+    "Crotaphytus",
+    "Crotaphytidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gambelia wislizenii",
+    "wislizenii",
+    "Gambelia",
+    "Crotaphytidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anolis biporcatus",
+    "biporcatus",
+    "Anolis",
+    "Dactyloidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anolis carolinensis",
+    "carolinensis",
+    "Anolis",
+    "Dactyloidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anolis cristatellus",
+    "cristatellus",
+    "Anolis",
+    "Dactyloidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anolis distichus",
+    "distichus",
+    "Anolis",
+    "Dactyloidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anolis equestris",
+    "equestris",
+    "Anolis",
+    "Dactyloidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anolis limifrons",
+    "limifrons",
+    "Anolis",
+    "Dactyloidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anolis nebulosus",
+    "nebulosus",
+    "Anolis",
+    "Dactyloidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Anolis sagrei",
+    "sagrei",
+    "Anolis",
+    "Dactyloidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Woodworthia maculata",
+    "maculata",
+    "Woodworthia",
+    "Diplodactylidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Micrurus tener",
+    "tener",
+    "Micrurus",
+    "Elapidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Notechis scutatus",
+    "scutatus",
+    "Notechis",
+    "Elapidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pseudechis porphyriacus",
+    "porphyriacus",
+    "Pseudechis",
+    "Elapidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Coleonyx variegatus",
+    "variegatus",
+    "Coleonyx",
+    "Eublepharidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Afrogecko porphyreus",
+    "porphyreus",
+    "Afrogecko",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Christinus marmoratus",
+    "marmoratus",
+    "Christinus",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gehyra mutilata",
+    "mutilata",
+    "Gehyra",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gekko chinensis",
+    "chinensis",
+    "Gekko",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gekko gecko",
+    "gecko",
+    "Gekko",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hemidactylus frenatus",
+    "frenatus",
+    "Hemidactylus",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hemidactylus mabouia",
+    "mabouia",
+    "Hemidactylus",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hemidactylus platyurus",
+    "platyurus",
+    "Hemidactylus",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Hemidactylus turcicus",
+    "turcicus",
+    "Hemidactylus",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lepidodactylus lugubris",
+    "lugubris",
+    "Lepidodactylus",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lygodactylus capensis",
+    "capensis",
+    "Lygodactylus",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phelsuma laticauda",
+    "laticauda",
+    "Phelsuma",
+    "Gekkonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Heloderma suspectum",
+    "suspectum",
+    "Heloderma",
+    "Helodermatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Amblyrhynchus cristatus",
+    "cristatus",
+    "Amblyrhynchus",
+    "Iguanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ctenosaura pectinata",
+    "pectinata",
+    "Ctenosaura",
+    "Iguanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ctenosaura similis",
+    "similis",
+    "Ctenosaura",
+    "Iguanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Dipsosaurus dorsalis",
+    "dorsalis",
+    "Dipsosaurus",
+    "Iguanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Iguana iguana",
+    "iguana",
+    "Iguana",
+    "Iguanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sauromalus ater",
+    "ater",
+    "Sauromalus",
+    "Iguanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lacerta agilis",
+    "agilis",
+    "Lacerta",
+    "Lacertidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lacerta bilineata",
+    "bilineata",
+    "Lacerta",
+    "Lacertidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lacerta viridis",
+    "viridis",
+    "Lacerta",
+    "Lacertidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Podarcis muralis",
+    "muralis",
+    "Podarcis",
+    "Lacertidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Podarcis siculus",
+    "siculus",
+    "Podarcis",
+    "Lacertidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Psammodromus algirus",
+    "algirus",
+    "Psammodromus",
+    "Lacertidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Timon lepidus",
+    "lepidus",
+    "Timon",
+    "Lacertidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Zootoca vivipara",
+    "vivipara",
+    "Zootoca",
+    "Lacertidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Duberria lutrix",
+    "lutrix",
+    "Duberria",
+    "Lamprophiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Psammodynastes pulverulentus",
+    "pulverulentus",
+    "Psammodynastes",
+    "Lamprophiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pseudaspis cana",
+    "cana",
+    "Pseudaspis",
+    "Lamprophiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Leiocephalus carinatus",
+    "carinatus",
+    "Leiocephalus",
+    "Leiocephalidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Rena dulcis",
+    "dulcis",
+    "Rena",
+    "Leptotyphlopidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Liolaemus tenuis",
+    "tenuis",
+    "Liolaemus",
+    "Liolaemidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Callisaurus draconoides",
+    "draconoides",
+    "Callisaurus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Cophosaurus texanus",
+    "texanus",
+    "Cophosaurus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Holbrookia maculata",
+    "maculata",
+    "Holbrookia",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Holbrookia propinqua",
+    "propinqua",
+    "Holbrookia",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phrynosoma blainvillii",
+    "blainvillii",
+    "Phrynosoma",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phrynosoma cornutum",
+    "cornutum",
+    "Phrynosoma",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phrynosoma hernandesi",
+    "hernandesi",
+    "Phrynosoma",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phrynosoma mcallii",
+    "mcallii",
+    "Phrynosoma",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phrynosoma modestum",
+    "modestum",
+    "Phrynosoma",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phrynosoma orbiculare",
+    "orbiculare",
+    "Phrynosoma",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phrynosoma platyrhinos",
+    "platyrhinos",
+    "Phrynosoma",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phrynosoma solare",
+    "solare",
+    "Phrynosoma",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus clarkii",
+    "clarkii",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus consobrinus",
+    "consobrinus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus cowlesi",
+    "cowlesi",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus cyanogenys",
+    "cyanogenys",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus graciosus",
+    "graciosus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus grammicus",
+    "grammicus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus jarrovii",
+    "jarrovii",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus magister",
+    "magister",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus malachiticus",
+    "malachiticus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus occidentalis",
+    "occidentalis",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus olivaceus",
+    "olivaceus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus orcutti",
+    "orcutti",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus poinsettii",
+    "poinsettii",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus siniferus",
+    "siniferus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus spinosus",
+    "spinosus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus torquatus",
+    "torquatus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus tristichus",
+    "tristichus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus undulatus",
+    "undulatus",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus uniformis",
+    "uniformis",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sceloporus variabilis",
+    "variabilis",
+    "Sceloporus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Urosaurus nigricaudus",
+    "nigricaudus",
+    "Urosaurus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Urosaurus ornatus",
+    "ornatus",
+    "Urosaurus",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Uta stansburiana",
+    "stansburiana",
+    "Uta",
+    "Phrynosomatidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tarentola mauritanica",
+    "mauritanica",
+    "Tarentola",
+    "Phyllodactylidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Thecadactylus rapicauda",
+    "rapicauda",
+    "Thecadactylus",
+    "Phyllodactylidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Morelia spilota",
+    "spilota",
+    "Morelia",
+    "Pythonidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Eulamprus quoyii",
+    "quoyii",
+    "Eulamprus",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Eutropis longicaudata",
+    "longicaudata",
+    "Eutropis",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Eutropis multifasciata",
+    "multifasciata",
+    "Eutropis",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropholis delicata",
+    "delicata",
+    "Lampropholis",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lampropholis guichenoti",
+    "guichenoti",
+    "Lampropholis",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Oligosoma polychroma",
+    "polychroma",
+    "Oligosoma",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Plestiodon fasciatus",
+    "fasciatus",
+    "Plestiodon",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Plestiodon gilberti",
+    "gilberti",
+    "Plestiodon",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Plestiodon inexpectatus",
+    "inexpectatus",
+    "Plestiodon",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Plestiodon laticeps",
+    "laticeps",
+    "Plestiodon",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Plestiodon obsoletus",
+    "obsoletus",
+    "Plestiodon",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Plestiodon skiltonianus",
+    "skiltonianus",
+    "Plestiodon",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Scincella lateralis",
+    "lateralis",
+    "Scincella",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tiliqua rugosa",
+    "rugosa",
+    "Tiliqua",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Tiliqua scincoides",
+    "scincoides",
+    "Tiliqua",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trachylepis margaritifera",
+    "margaritifera",
+    "Trachylepis",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trachylepis striata",
+    "striata",
+    "Trachylepis",
+    "Scincidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gonatodes albogularis",
+    "albogularis",
+    "Gonatodes",
+    "Sphaerodactylidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Ameiva ameiva",
+    "ameiva",
+    "Ameiva",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aspidoscelis exsanguis",
+    "exsanguis",
+    "Aspidoscelis",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aspidoscelis gularis",
+    "gularis",
+    "Aspidoscelis",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aspidoscelis hyperythrus",
+    "hyperythrus",
+    "Aspidoscelis",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aspidoscelis sexlineatus",
+    "sexlineatus",
+    "Aspidoscelis",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aspidoscelis sonorae",
+    "sonorae",
+    "Aspidoscelis",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aspidoscelis tesselatus",
+    "tesselatus",
+    "Aspidoscelis",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aspidoscelis tigris",
+    "tigris",
+    "Aspidoscelis",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Aspidoscelis velox",
+    "velox",
+    "Aspidoscelis",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Holcosus festivus",
+    "festivus",
+    "Holcosus",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Holcosus undulatus",
+    "undulatus",
+    "Holcosus",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Salvator merianae",
+    "merianae",
+    "Salvator",
+    "Teiidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Indotyphlops braminus",
+    "braminus",
+    "Indotyphlops",
+    "Typhlopidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Varanus bengalensis",
+    "bengalensis",
+    "Varanus",
+    "Varanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Varanus nebulosus",
+    "nebulosus",
+    "Varanus",
+    "Varanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Varanus niloticus",
+    "niloticus",
+    "Varanus",
+    "Varanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Varanus salvator",
+    "salvator",
+    "Varanus",
+    "Varanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Varanus varius",
+    "varius",
+    "Varanus",
+    "Varanidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Agkistrodon conanti",
+    "conanti",
+    "Agkistrodon",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Agkistrodon contortrix",
+    "contortrix",
+    "Agkistrodon",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Agkistrodon laticinctus",
+    "laticinctus",
+    "Agkistrodon",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Agkistrodon piscivorus",
+    "piscivorus",
+    "Agkistrodon",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bitis arietans",
+    "arietans",
+    "Bitis",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bothriechis schlegelii",
+    "schlegelii",
+    "Bothriechis",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Bothrops asper",
+    "asper",
+    "Bothrops",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus adamanteus",
+    "adamanteus",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus atrox",
+    "atrox",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus cerastes",
+    "cerastes",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus horridus",
+    "horridus",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus molossus",
+    "molossus",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus oreganus",
+    "oreganus",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus ornatus",
+    "ornatus",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus pyrrhus",
+    "pyrrhus",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus ruber",
+    "ruber",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus scutulatus",
+    "scutulatus",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Crotalus viridis",
+    "viridis",
+    "Crotalus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sistrurus catenatus",
+    "catenatus",
+    "Sistrurus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sistrurus miliarius",
+    "miliarius",
+    "Sistrurus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sistrurus tergeminus",
+    "tergeminus",
+    "Sistrurus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trimeresurus stejnegeri",
+    "stejnegeri",
+    "Trimeresurus",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Vipera aspis",
+    "aspis",
+    "Vipera",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Vipera berus",
+    "berus",
+    "Vipera",
+    "Viperidae",
+    "Squamata",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Phrynops hilarii",
+    "hilarii",
+    "Phrynops",
+    "Chelidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Caretta caretta",
+    "caretta",
+    "Caretta",
+    "Cheloniidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Chelonia mydas",
+    "mydas",
+    "Chelonia",
+    "Cheloniidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Eretmochelys imbricata",
+    "imbricata",
+    "Eretmochelys",
+    "Cheloniidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Lepidochelys olivacea",
+    "olivacea",
+    "Lepidochelys",
+    "Cheloniidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Chelydra serpentina",
+    "serpentina",
+    "Chelydra",
+    "Chelydridae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Actinemys marmorata",
+    "marmorata",
+    "Actinemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Chrysemys picta",
+    "picta",
+    "Chrysemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Clemmys guttata",
+    "guttata",
+    "Clemmys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Emydoidea blandingii",
+    "blandingii",
+    "Emydoidea",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Emys orbicularis",
+    "orbicularis",
+    "Emys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Glyptemys insculpta",
+    "insculpta",
+    "Glyptemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Graptemys geographica",
+    "geographica",
+    "Graptemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Graptemys ouachitensis",
+    "ouachitensis",
+    "Graptemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Graptemys pseudogeographica",
+    "pseudogeographica",
+    "Graptemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Malaclemys terrapin",
+    "terrapin",
+    "Malaclemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pseudemys concinna",
+    "concinna",
+    "Pseudemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pseudemys nelsoni",
+    "nelsoni",
+    "Pseudemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pseudemys peninsularis",
+    "peninsularis",
+    "Pseudemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pseudemys rubriventris",
+    "rubriventris",
+    "Pseudemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Pseudemys texana",
+    "texana",
+    "Pseudemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Terrapene carolina",
+    "carolina",
+    "Terrapene",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Terrapene ornata",
+    "ornata",
+    "Terrapene",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trachemys scripta",
+    "scripta",
+    "Trachemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Trachemys venusta",
+    "venusta",
+    "Trachemys",
+    "Emydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Mauremys leprosa",
+    "leprosa",
+    "Mauremys",
+    "Geoemydidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Kinosternon baurii",
+    "baurii",
+    "Kinosternon",
+    "Kinosternidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Kinosternon flavescens",
+    "flavescens",
+    "Kinosternon",
+    "Kinosternidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Kinosternon integrum",
+    "integrum",
+    "Kinosternon",
+    "Kinosternidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Kinosternon subrubrum",
+    "subrubrum",
+    "Kinosternon",
+    "Kinosternidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sternotherus carinatus",
+    "carinatus",
+    "Sternotherus",
+    "Kinosternidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Sternotherus odoratus",
+    "odoratus",
+    "Sternotherus",
+    "Kinosternidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Chersina angulata",
+    "angulata",
+    "Chersina",
+    "Testudinidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gopherus agassizii",
+    "agassizii",
+    "Gopherus",
+    "Testudinidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gopherus berlandieri",
+    "berlandieri",
+    "Gopherus",
+    "Testudinidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gopherus morafkai",
+    "morafkai",
+    "Gopherus",
+    "Testudinidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Gopherus polyphemus",
+    "polyphemus",
+    "Gopherus",
+    "Testudinidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Stigmochelys pardalis",
+    "pardalis",
+    "Stigmochelys",
+    "Testudinidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Testudo graeca",
+    "graeca",
+    "Testudo",
+    "Testudinidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Testudo hermanni",
+    "hermanni",
+    "Testudo",
+    "Testudinidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Apalone ferox",
+    "ferox",
+    "Apalone",
+    "Trionychidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Apalone spinifera",
+    "spinifera",
+    "Apalone",
+    "Trionychidae",
+    "Testudines",
+    "Reptilia",
+    "Chordata",
+    "Animalia"
+  ],
+  [
+    "Actinia equina",
+    "equina",
+    "Actinia",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Actinia tenebrosa",
+    "tenebrosa",
+    "Actinia",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Anemonia viridis",
+    "viridis",
+    "Anemonia",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Anthopleura artemisia",
+    "artemisia",
+    "Anthopleura",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Anthopleura elegantissima",
+    "elegantissima",
+    "Anthopleura",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Anthopleura sola",
+    "sola",
+    "Anthopleura",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Anthopleura xanthogrammica",
+    "xanthogrammica",
+    "Anthopleura",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Epiactis prolifera",
+    "prolifera",
+    "Epiactis",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Isactinia olivacea",
+    "olivacea",
+    "Isactinia",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Oulactis muscosa",
+    "muscosa",
+    "Oulactis",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Phlyctenactis tuberculosa",
+    "tuberculosa",
+    "Phlyctenactis",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Urticina grebelnyi",
+    "grebelnyi",
+    "Urticina",
+    "Actiniidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Diadumene lineata",
+    "lineata",
+    "Diadumene",
+    "Diadumenidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Metridium farcimen",
+    "farcimen",
+    "Metridium",
+    "Metridiidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Metridium senile",
+    "senile",
+    "Metridium",
+    "Metridiidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Anthothoe albocincta",
+    "albocincta",
+    "Anthothoe",
+    "Sagartiidae",
+    "Actiniaria",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Corynactis californica",
+    "californica",
+    "Corynactis",
+    "Corallimorphidae",
+    "Corallimorpharia",
+    "Anthozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Porpita porpita",
+    "porpita",
+    "Porpita",
+    "Porpitidae",
+    "Anthoathecata",
+    "Hydrozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Velella velella",
+    "velella",
+    "Velella",
+    "Porpitidae",
+    "Anthoathecata",
+    "Hydrozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Physalia physalis",
+    "physalis",
+    "Physalia",
+    "Physaliidae",
+    "Siphonophorae",
+    "Hydrozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Stomolophus meleagris",
+    "meleagris",
+    "Stomolophus",
+    "Stomolophidae",
+    "Rhizostomeae",
+    "Scyphozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Cyanea ferruginea",
+    "ferruginea",
+    "Cyanea",
+    "Cyaneidae",
+    "Semaeostomeae",
+    "Scyphozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Chrysaora fuscescens",
+    "fuscescens",
+    "Chrysaora",
+    "Pelagiidae",
+    "Semaeostomeae",
+    "Scyphozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Phacellophora camtschatica",
+    "camtschatica",
+    "Phacellophora",
+    "Phacellophoridae",
+    "Semaeostomeae",
+    "Scyphozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Aurelia aurita",
+    "aurita",
+    "Aurelia",
+    "Ulmaridae",
+    "Semaeostomeae",
+    "Scyphozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Aurelia labiata",
+    "labiata",
+    "Aurelia",
+    "Ulmaridae",
+    "Semaeostomeae",
+    "Scyphozoa",
+    "Cnidaria",
+    "Animalia"
+  ],
+  [
+    "Asterias rubens",
+    "rubens",
+    "Asterias",
+    "Asteriidae",
+    "Forcipulatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Coscinasterias muricata",
+    "muricata",
+    "Coscinasterias",
+    "Asteriidae",
+    "Forcipulatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Evasterias troschelii",
+    "troschelii",
+    "Evasterias",
+    "Asteriidae",
+    "Forcipulatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Pisaster giganteus",
+    "giganteus",
+    "Pisaster",
+    "Asteriidae",
+    "Forcipulatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Pisaster ochraceus",
+    "ochraceus",
+    "Pisaster",
+    "Asteriidae",
+    "Forcipulatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Pycnopodia helianthoides",
+    "helianthoides",
+    "Pycnopodia",
+    "Asteriidae",
+    "Forcipulatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Henricia leviuscula",
+    "leviuscula",
+    "Henricia",
+    "Echinasteridae",
+    "Spinulosida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Patiria miniata",
+    "miniata",
+    "Patiria",
+    "Asterinidae",
+    "Valvatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Patiriella regularis",
+    "regularis",
+    "Patiriella",
+    "Asterinidae",
+    "Valvatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Dermasterias imbricata",
+    "imbricata",
+    "Dermasterias",
+    "Asteropseidae",
+    "Valvatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Oreaster reticulatus",
+    "reticulatus",
+    "Oreaster",
+    "Oreasteridae",
+    "Valvatida",
+    "Asteroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Echinometra mathaei",
+    "mathaei",
+    "Echinometra",
+    "Echinometridae",
+    "Camarodonta",
+    "Echinoidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Evechinus chloroticus",
+    "chloroticus",
+    "Evechinus",
+    "Echinometridae",
+    "Camarodonta",
+    "Echinoidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Mesocentrotus franciscanus",
+    "franciscanus",
+    "Mesocentrotus",
+    "Strongylocentrotidae",
+    "Camarodonta",
+    "Echinoidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Strongylocentrotus droebachiensis",
+    "droebachiensis",
+    "Strongylocentrotus",
+    "Strongylocentrotidae",
+    "Camarodonta",
+    "Echinoidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Strongylocentrotus purpuratus",
+    "purpuratus",
+    "Strongylocentrotus",
+    "Strongylocentrotidae",
+    "Camarodonta",
+    "Echinoidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Dendraster excentricus",
+    "excentricus",
+    "Dendraster",
+    "Dendrasteridae",
+    "Clypeasteroida",
+    "Echinoidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Mellita quinquiesperforata",
+    "quinquiesperforata",
+    "Mellita",
+    "Mellitidae",
+    "Clypeasteroida",
+    "Echinoidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Cucumaria miniata",
+    "miniata",
+    "Cucumaria",
+    "Cucumariidae",
+    "Dendrochirotida",
+    "Holothuroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Apostichopus californicus",
+    "californicus",
+    "Apostichopus",
+    "Stichopodidae",
+    "Synallactida",
+    "Holothuroidea",
+    "Echinodermata",
+    "Animalia"
+  ],
+  [
+    "Ophiothrix spiculata",
+    "spiculata",
+    "Ophiothrix",
+    "Ophiotrichidae",
+    "Amphilepidida",
+    "Ophiuroidea",
+    "Echinodermata",
+    "Animalia"
+  ]
+]
