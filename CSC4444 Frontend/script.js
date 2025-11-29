@@ -1,6 +1,6 @@
 // ===================== CONFIG =====================
-const BACKEND_URL = "https://animal-species-backend.onrender.com/predict";
-;
+const BACKEND_URL = "http://127.0.0.1:5000/predict";
+
 
 // Grab elements (they only exist on frontend.html)
 const input = document.getElementById("imageInput");
