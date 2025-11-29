@@ -1,0 +1,20 @@
+<!-- SMALL NOTE I HAD TO CREATE THIS SO NETLIFY CAN FIND A PAGE TO LOAD. INSTEAD OF LOADING
+ frontend.html it has to grab a file necessarily named "index.html" like come on. anyways
+ this is why this file is here unfortunately. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <!-- Meta refresh redirect -->
+    <meta http-equiv="refresh" content="0; url=frontend.html" />
+    <script>
+      // JS redirect as a fallback
+      window.location.href = "frontend.html";
+    </script>
+  </head>
+  <body>
+    <p>If you are not redirected automatically, <a href="frontend.html">click here</a>.</p>
+  </body>
+</html>
