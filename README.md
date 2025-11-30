@@ -23,19 +23,21 @@ Create/train a Residual Convolutional Neural Network AI model that can take an i
 
 Unfortunately, it was planned to host the backend python AI model on a free website such as railway.app or render.com but the model was too large to be hosted for free. We were able to host a frontend website with netlify but it wouldn't matter since we can't connect the backend. We wanted to simulate real world AI websites. Instead of having to pay, we decided to have a user run the AI model locally on their computer. 
 
-1. Visual Studio Code
-2. Download files from github repo or git clone https://github.com/sngu114/CSC-4444-AI-Group-G-Final-Project.git
-3. cd CSC-4444-AI-Group-G-Final-Project
-4. Recommended to create a virtual environment. 
-python -m venv .venv
-.\.venv\Scripts\activate
-5. Could be run from the VS code terminal. After creating environment, activate it. 
-6. Install backend dependencies. (flask, pytorch, tmm, pillow, etc)
-cd Model
-pip install -r requirements.txt
-7. To run the backend flask+ ai model.
-enter python app.py
-8. Should see lines like "Loading SpeciesClassifier..." etc. etc.
-9. Go to frontend.html and click "Go Live" if you have the go live extension where you can see the html live.
-10. Python model runs in the back and you can paste in your image on the website and a result will display after the image is processed by the model.
+Installations:
+1. Python Anaconda (recommended for smoother operations). https://www.anaconda.com/download. Verify install with conda --version.
+2. "Live Server" by Ritwick Dey
+3. Visual Studio Code
+
+1. Open Visual Studio Code
+2. Download files from github repo or do "git clone https://github.com/sngu114/CSC-4444-AI-Group-G-Final-Project.git"
+The files are large so cloning will take a nice amount of time to load.
+3. Open terminal
+4. Create a virtual anaconda environment. "conda create -n (EnterEnvironmentName) python=3.11 -y" then to activate you enter "conda activate (EnterEnvironmentName)"
+5. enter "conda install pytorch torchvision cpuonly -c pytorch -y"
+6. enter "cd Model" to get into the Model folder.
+7. enter "pip install -r requirements.txt".
+8. To start the backend flask+ ai model. enter "python app.py" while still under "Model" folder
+9. Should see lines like "Loading SpeciesClassifier..." etc. etc.
+10. Go to frontend.html under folder "/CSC4444 Frontend" and click the "Go Live" button at the bottom right or right click frontend.html and click "Open with Live Server", a tab will automatically open and you will be able to see the website live.
+11. The Python model runs in the back so you can enter in your image on the website and a result will display after the image is processed by the model.
 
