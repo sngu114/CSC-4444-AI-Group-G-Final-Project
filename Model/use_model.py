@@ -1,4 +1,4 @@
-from Model.inference import classify_species
+from Model.inference import classify_species_and_tax, classify_species
 from model import SpeciesClassifier
 import inference
 import json
@@ -12,6 +12,10 @@ image_path = "bison.jpg"
 with open("labels.json", "r") as f:
     labels = json.load(f)
 
-#pass these three in and get the top 5 species
-top5 = classify_species(model, image_path, labels)
-print(top5)
+#need taxonomy level indices
+with open("tax_indices.json", "r") as f:
+    tax_indices = json.load(f)
+
+#pass these three in and get the top 5 species and taxonomy level
+top5withtax = classify_species_and_tax(model, image_path, labels, tax_indices)
+print(top5withtax)

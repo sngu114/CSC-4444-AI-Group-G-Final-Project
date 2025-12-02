@@ -155,7 +155,6 @@ def classify_species(model, image_path, labels, return_prob=False):
     return results
 
 
-#NEED TO FINISH ALL THIS BELOW
 def sum_over_index_list(original_list, index_tuple_list):
     """
     Sums over a list of values using tuples of intervals to return
@@ -168,7 +167,16 @@ def sum_over_index_list(original_list, index_tuple_list):
     :param index_tuple_list: a list of tuples [start, end] inclusive of each name
     where the difference is the number of species withing that taxonomy level name
     corresponds to the dict.keys() of the taxonomy level of interest
-    :return:
+    :return: tuple with taxonomy level dictionary and list of top 5 dictionaries
+              ({'taxonomy_level' : level name like genus or familt etc,
+               'name' : if not the species, then the specific name of the tax level like panthera or canis etc.,
+               'confidence' : probability of taxonomy level
+               },
+               [ {'index':index_in_labels_list,
+                  'taxonomy' : [species, specific_epithet, genus, ... , kingdom],
+                  'prob' : probability_image_is_this_species
+                 }, ... 5 times
+               ])
     """
     sum_list = []
     for indices in index_tuple_list:
@@ -176,32 +184,49 @@ def sum_over_index_list(original_list, index_tuple_list):
     return sum_list
 
 
-def classify_species_or_tax(model, image_path, labels, tax_indices, threshold=0.2):
+def classify_species_and_tax(model, image_path, labels, tax_indices, threshold=0.2):
     # do normal inference
     probs = classify_species(model, image_path, labels, return_prob=True)
-    # if above threshold, do as normal
-    if max(probs) > threshold:
-        # do normal inference
-        top5_probs, top5_indices = torch.topk(probs, k=5)
-        # turn pred to top 5 species
-        results = []
-        for idx, prob in zip(top5_indices.tolist(), top5_probs.tolist()):
-            entry = {
-                "index": idx,
-                "taxonomy": labels[idx],
-                "prob": prob
-            }
-            results.append(entry)
-        return results
+    # do normal inference
+    top5_probs, top5_indices = torch.topk(probs, k=5)
+    # turn pred to top 5 species
+    results = []
+    for idx, prob in zip(top5_indices.tolist(), top5_probs.tolist()):
+        entry = {
+            "index": idx,
+            "taxonomy": labels[idx],
+            "prob": prob
+        }
+        results.append(entry)
+
+    tax_level_confidence = {}
+
+    # if above threshold, just return as normal
+    max_prob = max(probs).float()
+    if max_prob > threshold:
+        tax_level_confidence['tax_level'] = "species"
+        tax_level_confidence['confidence'] = max_prob
+        return tax_level_confidence, results
     # else, sum over higher levels until threshold reached
     else:
-        tax_levels = ['genus', 'family', 'order', 'class', 'phylum', 'kingdon']
+        tax_levels = ['genus', 'family', 'order', 'class', 'phylum', 'kingdom']
+        final_tax_level = ""
+        max_prob_tax_name = ""
         for t in tax_levels:
             original_list = probs
-            index_tuple_list = tax_indices[t][0]
-            name_list = tax_indices[t][1]
-            sum_list = sum_over_index_list(original_list, index_tuple_list)
-            max_value = max(sum_list)
+            index_tuple_list = tax_indices[t][0]  # gets list of tuples of indices for each classification at tax level
+            name_list = tax_indices[t][1]  # gets list of classifications for corresponding index tuples
+            sum_list = sum_over_index_list(original_list,
+                                           index_tuple_list)  # sum probabilities for higher taxonomy level
+            max_value = max(sum_list)  # get
             if max_value > threshold:
-                index_of_max = sum_list.index(max_value)
-                name = name_list[index_of_max]
+                index_of_max = sum_list.index(max_value)  # get index of classification with max probability
+                name = name_list[index_of_max]  # get name of that classification
+                final_tax_level = t
+                max_prob_tax_name = name
+                max_prob = max_value
+                break
+        tax_level_confidence['tax_level'] = final_tax_level
+        tax_level_confidence['name'] = max_prob_tax_name
+        tax_level_confidence['confidence'] = max_prob
+        return tax_level_confidence, results
