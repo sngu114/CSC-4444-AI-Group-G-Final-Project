@@ -1,8 +1,7 @@
 // ===================== CONFIG =====================
 const BACKEND_URL = "http://127.0.0.1:5000/predict";
 
-
-// Grab elements (they only exist on frontend.html)
+// Grab elements
 const input = document.getElementById("imageInput");
 const dropzone = document.getElementById("dropzone");
 const selectBtn = document.getElementById("selectBtn");
@@ -13,8 +12,7 @@ const errorMsg = document.getElementById("errorMsg");
 const statusMsg = document.getElementById("statusMsg");
 const resetBtn = document.getElementById("resetBtn");
 
-// If we're on a page like team_members.html or documentation.html,
-// these elements won't exist. In that case, do nothing.
+// Check if core elements exist (only on frontend.html)
 if (
   input &&
   dropzone &&
@@ -27,10 +25,21 @@ if (
   resetBtn
 ) {
   let selectedFile = null;
+  
+  // Get or create results container
+  let resultsContainer = document.getElementById("resultsContainer");
+  if (!resultsContainer) {
+    resultsContainer = document.createElement("div");
+    resultsContainer.id = "resultsContainer";
+    resultsContainer.style.display = "none";
+    // Insert after statusMsg
+    statusMsg.parentNode.insertBefore(resultsContainer, statusMsg.nextSibling);
+  }
 
   function clearMessages() {
     errorMsg.textContent = "";
     statusMsg.textContent = "";
+    resultsContainer.innerHTML = "";
   }
 
   function showPreviewUI() {
@@ -47,6 +56,7 @@ if (
     resetBtn.style.display = "none";
     submitBtn.disabled = true;
     selectedFile = null;
+    resultsContainer.innerHTML = "";
   }
 
   function setPreview(file) {
@@ -80,15 +90,88 @@ if (
     setPreview(files[0]);
   }
 
+  function displayResults(data) {
+    resultsContainer.innerHTML = "";
+
+    // Display taxonomy level info if not species level
+    const taxLevel = data.taxonomy_level;
+    if (taxLevel && taxLevel.tax_level !== "species") {
+      const taxWarning = document.createElement("div");
+      taxWarning.className = "taxonomy-warning";
+      taxWarning.innerHTML = `
+        <p><strong>Note:</strong> Confidence was below threshold for species-level classification.</p>
+        <p>Best match at <strong>${taxLevel.tax_level}</strong> level: 
+          <em>${taxLevel.name || 'Unknown'}</em> 
+          (${(taxLevel.confidence * 100).toFixed(1)}% confidence)
+        </p>
+      `;
+      resultsContainer.appendChild(taxWarning);
+    }
+
+    // Main prediction section
+    const mainResult = document.createElement("div");
+    mainResult.className = "main-result";
+    
+    const wiki = data.wikipedia || {};
+    const confidencePercent = (data.confidence * 100).toFixed(1);
+
+    mainResult.innerHTML = `
+      <h2>Top Prediction: ${data.prediction}</h2>
+      <p class="confidence">Confidence: ${confidencePercent}%</p>
+      
+      ${wiki.thumbnail ? `<img src="${wiki.thumbnail}" alt="${wiki.title}" class="wiki-thumbnail" />` : ''}
+      
+      <div class="wiki-summary">
+        <p>${wiki.summary || 'No summary available.'}</p>
+        ${wiki.url ? `<a href="${wiki.url}" target="_blank" rel="noopener">Read more on Wikipedia →</a>` : ''}
+      </div>
+    `;
+    
+    resultsContainer.appendChild(mainResult);
+
+    // Alternative predictions section
+    if (data.top5 && data.top5.length > 1) {
+      const alternativesSection = document.createElement("div");
+      alternativesSection.className = "alternatives-section";
+      
+      const header = document.createElement("h3");
+      header.textContent = "If this doesn't look right, it might be one of these:";
+      alternativesSection.appendChild(header);
+
+      const alternativesList = document.createElement("div");
+      alternativesList.className = "alternatives-list";
+
+      // Skip the first one (already shown above)
+      data.top5.slice(1).forEach((item) => {
+        const altDiv = document.createElement("div");
+        altDiv.className = "alternative-item";
+        
+        const prob = (item.prob * 100).toFixed(1);
+
+        altDiv.innerHTML = `
+          <div class="alt-header">
+            <strong>${item.species}</strong>
+            <span class="alt-prob">${prob}%</span>
+          </div>
+          ${item.wiki_image ? `<img src="${item.wiki_image}" alt="${wiki.title}" class="wiki-thumbnail" />` : ''}
+        `;
+        
+        alternativesList.appendChild(altDiv);
+      });
+
+      alternativesSection.appendChild(alternativesList);
+      resultsContainer.appendChild(alternativesSection);
+    }
+
+    resultsContainer.style.display = "block";
+  }
+
   // ----- Event wiring -----
 
-  // Clicking "Choose image"
   selectBtn.addEventListener("click", () => input.click());
 
-  // File chosen via input
   input.addEventListener("change", (e) => handleFiles(e.target.files));
 
-  // Drag & drop UI
   ["dragenter", "dragover"].forEach((evt) =>
     dropzone.addEventListener(evt, (e) => {
       e.preventDefault();
@@ -111,7 +194,6 @@ if (
     if (dt && dt.files) handleFiles(dt.files);
   });
 
-  // Allow pasting image data
   dropzone.addEventListener("paste", (e) => {
     const items = e.clipboardData?.files;
     if (items && items.length) handleFiles(items);
@@ -119,6 +201,7 @@ if (
 
   // ----- Submit: send image to backend -----
   submitBtn.addEventListener("click", async () => {
+    console.log("Submit button clicked");
     clearMessages();
 
     if (!selectedFile) {
@@ -126,48 +209,42 @@ if (
       return;
     }
 
-    // UI state
     statusMsg.textContent = "Running AI prediction...";
     submitBtn.disabled = true;
 
     const formData = new FormData();
-    formData.append("file", selectedFile); // key name must be "file"
+    formData.append("file", selectedFile);
 
     try {
+      console.log("Sending request to:", BACKEND_URL);
       const res = await fetch(BACKEND_URL, {
         method: "POST",
         body: formData,
       });
 
+      console.log("Response status:", res.status);
+
       if (!res.ok) {
+        const errorText = await res.text();
+        console.error("Server error response:", errorText);
         statusMsg.textContent = "";
-        errorMsg.textContent = `Server error (status ${res.status}).`;
+        errorMsg.textContent = `Server error (status ${res.status}). Check console for details.`;
         submitBtn.disabled = false;
         return;
       }
 
       const data = await res.json();
+      console.log("Response data:", data);
 
       if (data.error) {
         statusMsg.textContent = "";
         errorMsg.textContent = "Error: " + data.error;
       } else {
-        const pred = data.prediction ?? "Unknown";
-        const conf =
-          data.confidence != null
-            ? ` (${(data.confidence * 100).toFixed(1)}% confidence)`
-            : "";
-
-        // Main prediction line
-        statusMsg.textContent = `Prediction: ${pred}${conf}`;
-
-        // If you want, you can also log the top5 in the console:
-        if (Array.isArray(data.top5)) {
-          console.log("Top-5 predictions:", data.top5);
-        }
+        statusMsg.textContent = "Prediction complete!";
+        displayResults(data);
       }
     } catch (err) {
-      console.error(err);
+      console.error("Fetch error:", err);
       statusMsg.textContent = "";
       errorMsg.textContent =
         "Network error. Is the backend (python app.py) still running?";
@@ -176,7 +253,6 @@ if (
     }
   });
 
-  // Reset / submit another image
   resetBtn.addEventListener("click", () => {
     selectedFile = null;
     clearMessages();
@@ -185,4 +261,6 @@ if (
 
   // Initial UI state
   showDropzoneUI();
+  
+  console.log("Script loaded successfully");
 }
